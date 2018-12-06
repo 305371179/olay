@@ -1,10 +1,30 @@
-<view class="stage shouye" name="shouye" id="shouye">
-  <image class="bitmap8 _id" name="bg" src="{{baseUrl+'shouye/bg.png'}}"></image>
-  <image class="bitmap7 _id1" name="center" src="{{baseUrl+'shouye/center.png'}}"></image>
-  <image class="bitmap6 _id2" name="circle" src="{{baseUrl+'shouye/circle.png'}}"></image>
-  <image class="bitmap5 _id3" name="ruleBtn" src="{{baseUrl+'shouye/ruleBtn.png'}}"></image>
-  <image class="bitmap4 _id4" name="arrow" src="{{baseUrl+'shouye/arrow.png'}}"></image>
-  <image class="bitmap3 _id5" name="product" src="{{baseUrl+'shouye/product.png'}}"></image>
-  <image class="bitmap2 _id6" name="title" src="{{baseUrl+'shouye/title.png'}}"></image>
-  <image class="bitmap1 _id7" name="logo" src="{{baseUrl+'shouye/logo.png'}}"></image>
-</view>
+<swiper class="{{'page'+current}}" indicator-dots="{{false}}" current="{{current}}" bindchange="bindchange"
+        autoplay="{{false}}" vertical="{{true}}">
+    <swiper-item>
+      <view class="stage shouye" name="shouye" id="shouye">
+        <image class="bitmap8 _id" name="bg" src="{{baseUrl+'shouye/bg.png'}}"></image>
+        <image class="bitmap7 _id1" name="center" src="{{baseUrl+'shouye/center.png'}}"></image>
+        <image class="bitmap6 _id2" name="circle" src="{{baseUrl+'shouye/circle.png'}}"></image>
+        <image class="bitmap5 _id3" name="ruleBtn" src="{{baseUrl+'shouye/ruleBtn.png'}}"></image>
+        <image class="bitmap4 _id4" name="arrow" src="{{baseUrl+'shouye/arrow.png'}}"></image>
+        <image class="bitmap3 _id5" name="product" src="{{baseUrl+'shouye/product.png'}}"></image>
+        <image class="bitmap2 _id6" name="title" src="{{baseUrl+'shouye/title.png'}}"></image>
+        <image class="bitmap1 _id7" name="logo" src="{{baseUrl+'shouye/logo.png'}}"></image>
+        <!--style="{{'background-image:url('+baseUrl+'shouye/title.png'+')'}}"-->
+        <view class="text-container" ><text style="position:relative;left:18rpx;" decode="{{true}}" space="{{true}}">新年新肌&nbsp;开启心愿</text></view>
+      </view>
+    </swiper-item>
+    <swiper-item>
+      <view class="stage shouye" name="shouye" id="shouye">
+        <image class="bitmap8 _id" name="bg" src="{{baseUrl+'shouye/bg.png'}}"></image>
+        <image class="bitmap7 _id1" name="center" src="{{baseUrl+'shouye/center.png'}}"></image>
+        <image class="bitmap6 _id2" name="circle" src="{{baseUrl+'shouye/circle.png'}}"></image>
+        <image class="bitmap5 _id3" name="ruleBtn" src="{{baseUrl+'shouye/ruleBtn.png'}}"></image>
+        <image class="bitmap4 _id4" name="arrow" src="{{baseUrl+'shouye/arrow.png'}}"></image>
+        <image class="bitmap3 _id5" name="product" src="{{baseUrl+'shouye/product.png'}}"></image>
+        <image class="bitmap2 _id6" name="title" src="{{baseUrl+'shouye/title.png'}}"></image>
+        <image class="bitmap1 _id7" name="logo" src="{{baseUrl+'shouye/logo.png'}}"></image>
+        <!--<view class="text-container"><text style="position:relative;left:18rpx;" decode="{{true}}" space="{{true}}">新年新肌&nbsp;开启心愿</text></view>-->
+      </view>
+    </swiper-item>
+</swiper>

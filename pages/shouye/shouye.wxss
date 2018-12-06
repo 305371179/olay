@@ -60,9 +60,10 @@ g {
 
 #shouye {
   position: absolute;
-  overflow: hidden;
+  overflow: auto;
   width: 750rpx;
-  height: 1212rpx;
+  /*height: 1212rpx;*/
+  height:100%;
   background: #ffffff;
 }
 
@@ -74,8 +75,8 @@ g {
 .shouye ._id1 {
   position: absolute;
   visibility: inherit;
-  transform: translate3d(48rpx, 183rpx, 0);
-  -webkit-transform: translate3d(48rpx, 183rpx, 0);
+  left:48rpx;
+  top:183rpx;
 }
 
 .shouye ._id2 {
@@ -95,15 +96,15 @@ g {
 .shouye ._id4 {
   position: absolute;
   visibility: inherit;
-  transform: translate3d(351rpx, 1153rpx, 0);
-  -webkit-transform: translate3d(351rpx, 1153rpx, 0);
+  left:351rpx;
+  bottom:40rpx;
 }
 
 .shouye ._id5 {
   position: absolute;
   visibility: inherit;
-  transform: translate3d(240rpx, 369rpx, 0);
-  -webkit-transform: translate3d(240rpx, 369rpx, 0);
+  left:240rpx;
+  top:369rpx;
 }
 
 .shouye ._id6 {
@@ -126,4 +127,107 @@ g {
   top: 0rpx;
   width: 0rpx;
   height: 0rpx;
+}
+
+
+swiper{
+  height:100%;
+  width:100%;
+}
+
+.text-container{
+ /* -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;*/
+  color:transparent;
+  text-align: center;
+  position: absolute;
+  top:149rpx;
+  display: block;
+  width: 100%;
+  font-size: 50rpx;
+  letter-spacing: 5rpx;
+  /*
+  -webkit-animation: masked-animation 1s infinite linear;
+  */
+  height:300rpx;
+}
+@-webkit-keyframes masked-animation {
+  0%{ background-position: 0 0;}
+  100% { background-position: -100% 0;}
+}
+
+.title{
+
+  color:black;
+  position:relative;
+  display: block;
+  text-align: center;
+  z-index: 11;
+}
+.bitmap7,.bitmap3 {
+  -webkit-transform: scale(0, 0);
+}
+.page0 .bitmap7{
+  -webkit-transform: scale(0,0);
+  -webkit-animation:scale 0.7s 1.5s ease-in both;
+}
+
+.page0 .bitmap3{
+  -webkit-transform: scale(0,0);
+  -webkit-animation:scale 1s 0.5s ease-in both;
+}
+.page0 .bitmap4{
+  -webkit-animation:ud 1s infinite; 
+}
+@-webkit-keyframes ud{
+  from,to{
+    -webkit-transform: translateY(0rpx);    
+  }
+  50%{
+    -webkit-transform: translateY(20rpx);
+  }
+ 
+}
+@-webkit-keyframes scale{
+  /*from{
+    -webkit-transform: scale(0,0);    
+  }
+  to{
+    -webkit-transform: scale(1,1); 
+  }*/
+  from,
+  20%,
+  40%,
+  60%,
+  80%,
+  to {
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+
+  0% {
+    opacity: 0;
+    transform: scale3d(0.3, 0.3, 0.3);
+  }
+
+  20% {
+    transform: scale3d(1.1, 1.1, 1.1);
+  }
+
+  40% {
+    transform: scale3d(0.9, 0.9, 0.9);
+  }
+
+  60% {
+    opacity: 1;
+    transform: scale3d(1.03, 1.03, 1.03);
+  }
+
+  80% {
+    transform: scale3d(0.97, 0.97, 0.97);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale3d(1, 1, 1);
+  }
 }
