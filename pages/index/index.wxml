@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+  <scroll-view class="scroll-view_H" scroll-y>
+          <image style="width: 200px; height: 200px; background-color: #eeeeee;" mode="{{item.mode}}" src="{{img}}"></image>
+
+    <button class="write_btn" bindtap="setLoading">点击设置以上按钮loading属性</button>
+     <text class="rule_btn">规则</text>
+       <navigator url="../page/page" hover-class="navigator-hover">跳转到新页面</navigator>
+
+<textarea placeholder="form 中的 textarea" name="textarea"/>
+  </scroll-view>
+</view>

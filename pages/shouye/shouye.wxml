@@ -1,0 +1,10 @@
+<view class="stage shouye" name="shouye" id="shouye">
+  <image class="bitmap8 _id" name="bg" src="{{baseUrl+'shouye/bg.png'}}"></image>
+  <image class="bitmap7 _id1" name="center" src="{{baseUrl+'shouye/center.png'}}"></image>
+  <image class="bitmap6 _id2" name="circle" src="{{baseUrl+'shouye/circle.png'}}"></image>
+  <image class="bitmap5 _id3" name="ruleBtn" src="{{baseUrl+'shouye/ruleBtn.png'}}"></image>
+  <image class="bitmap4 _id4" name="arrow" src="{{baseUrl+'shouye/arrow.png'}}"></image>
+  <image class="bitmap3 _id5" name="product" src="{{baseUrl+'shouye/product.png'}}"></image>
+  <image class="bitmap2 _id6" name="title" src="{{baseUrl+'shouye/title.png'}}"></image>
+  <image class="bitmap1 _id7" name="logo" src="{{baseUrl+'shouye/logo.png'}}"></image>
+</view>

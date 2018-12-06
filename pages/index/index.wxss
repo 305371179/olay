@@ -1,0 +1,10 @@
+/**index.wxss**/
+.scroll-view_H{
+  height:100%;
+  width:100%;
+}
+.write_btn{
+}
+.rule_btn{
+  text-decoration: underline;
+}

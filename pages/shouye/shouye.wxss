@@ -1,0 +1,129 @@
+.bitmap1 {
+  position: absolute;
+  visibility: hidden;
+  width: 238rpx;
+  height: 34rpx;
+}
+
+g {
+  pointer-events: visiblePainted;
+}
+
+.bitmap2 {
+  position: absolute;
+  visibility: hidden;
+  width: 440rpx;
+  height: 49rpx;
+}
+
+.bitmap3 {
+  position: absolute;
+  visibility: hidden;
+  width: 300rpx;
+  height: 421rpx;
+}
+
+.bitmap4 {
+  position: absolute;
+  visibility: hidden;
+  width: 70rpx;
+  height: 32rpx;
+}
+
+.bitmap5 {
+  position: absolute;
+  visibility: hidden;
+  width: 82rpx;
+  height: 23rpx;
+}
+
+.bitmap6 {
+  position: absolute;
+  visibility: hidden;
+  width: 498rpx;
+  height: 501rpx;
+}
+
+.bitmap7 {
+  position: absolute;
+  visibility: hidden;
+  width: 684rpx;
+  height: 888rpx;
+}
+
+.bitmap8 {
+  position: absolute;
+  visibility: hidden;
+  width: 750rpx;
+  height: 1212rpx;
+}
+
+#shouye {
+  position: absolute;
+  overflow: hidden;
+  width: 750rpx;
+  height: 1212rpx;
+  background: #ffffff;
+}
+
+.shouye ._id {
+  position: absolute;
+  visibility: inherit;
+}
+
+.shouye ._id1 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(48rpx, 183rpx, 0);
+  -webkit-transform: translate3d(48rpx, 183rpx, 0);
+}
+
+.shouye ._id2 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(135rpx, 412rpx, 0);
+  -webkit-transform: translate3d(135rpx, 412rpx, 0);
+}
+
+.shouye ._id3 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(347rpx, 1018rpx, 0);
+  -webkit-transform: translate3d(347rpx, 1018rpx, 0);
+}
+
+.shouye ._id4 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(351rpx, 1153rpx, 0);
+  -webkit-transform: translate3d(351rpx, 1153rpx, 0);
+}
+
+.shouye ._id5 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(240rpx, 369rpx, 0);
+  -webkit-transform: translate3d(240rpx, 369rpx, 0);
+}
+
+.shouye ._id6 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(174rpx, 159rpx, 0);
+  -webkit-transform: translate3d(174rpx, 159rpx, 0);
+}
+
+.shouye ._id7 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(269rpx, 27rpx, 0);
+  -webkit-transform: translate3d(269rpx, 27rpx, 0);
+}
+
+.masks {
+  position: absolute;
+  left: 0rpx;
+  top: 0rpx;
+  width: 0rpx;
+  height: 0rpx;
+}
