@@ -5,7 +5,8 @@
     "pages/index/index",
     "pages/logs/logs",
     "pages/note/note",
-    "pages/page/page"
+    "pages/page/page",
+    "pages/guodu/guodu"
   ],
   "window": {
     "backgroundTextStyle": "light",

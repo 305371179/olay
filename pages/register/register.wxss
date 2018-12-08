@@ -155,3 +155,8 @@ g {
   width: 0rpx;
   height: 0rpx;
 }
+
+.nameBg,.phoneBg{
+  padding:0 18rpx;
+  box-sizing: border-box;
+}
