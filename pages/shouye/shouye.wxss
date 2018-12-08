@@ -135,7 +135,7 @@ swiper{
   width:100%;
 }
 
-.text-container{
+.shouye .text-container{
  /* -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;*/
   color:transparent;
@@ -156,27 +156,26 @@ swiper{
   100% { background-position: -100% 0;}
 }
 
-.title{
-
+.shouye .title{
   color:black;
   position:relative;
   display: block;
   text-align: center;
   z-index: 11;
 }
-.bitmap7,.bitmap3 {
+.shouye .bitmap7,.shouye .bitmap3 {
   -webkit-transform: scale(0, 0);
 }
-.page0 .bitmap7{
+.page0 .shouye .bitmap7{
   -webkit-transform: scale(0,0);
   -webkit-animation:scale 0.7s 1.5s ease-in both;
 }
 
-.page0 .bitmap3{
+.page0 .shouye .bitmap3{
   -webkit-transform: scale(0,0);
   -webkit-animation:scale 1s 0.5s ease-in both;
 }
-.page0 .bitmap4{
+.page0 .shouye .bitmap4{
   -webkit-animation:ud 1s infinite; 
 }
 @-webkit-keyframes ud{
@@ -189,12 +188,6 @@ swiper{
  
 }
 @-webkit-keyframes scale{
-  /*from{
-    -webkit-transform: scale(0,0);    
-  }
-  to{
-    -webkit-transform: scale(1,1); 
-  }*/
   from,
   20%,
   40%,

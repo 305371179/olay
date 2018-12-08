@@ -1,12 +1,13 @@
 {
   "pages": [
-    "pages/register/register",
+    "pages/share/share",
+    "pages/guodu/guodu",
     "pages/shouye/shouye",
     "pages/index/index",
+    "pages/register/register",
     "pages/logs/logs",
     "pages/note/note",
-    "pages/page/page",
-    "pages/guodu/guodu"
+    "pages/page/page"
   ],
   "window": {
     "backgroundTextStyle": "light",

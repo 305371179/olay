@@ -2,32 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2069df29-a481-47c4-b9b6-827c20b6e9d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/guodu.fla" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/guodu.psb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/guodu/guodu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/guodu/guodu.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/guodu/guodu.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/register/register.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/guodu/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/guodu/dai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/guodu/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/guodu/qiu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/guodu/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/guodu/star1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/guodu/text0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/guodu/text1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/guodu/text2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/guodu/text3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/guodu/wish.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/shouye/shouye.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/guodu/guodu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/chuandi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/countText.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/lvshen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/lvxing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/saoguang0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/saoguang1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/saoguang2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/saoguang3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/shareBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/shareBtn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/wuzhe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/xinyuan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/xinyuanBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/xinyuanText.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/xinyuanbackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/share/yiyuan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/share.fla" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/share.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/share/share.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/share/share.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/share/share.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/share/share.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/register/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/register/register.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/register/register.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/register/register.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/register/register.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/register/register.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/guodu.fla" beforeDir="false" afterPath="$PROJECT_DIR$/pages/guodu.fla" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/guodu/guodu.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/guodu/guodu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/guodu/guodu.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/guodu/guodu.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/guodu/guodu.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/guodu/guodu.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/shouye/shouye.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shouye/shouye.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/util.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,14 +49,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.62168676">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pages/index/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+                <state relative-caret-position="397">
+                  <caret line="48" column="4" lean-forward="true" selection-start-line="47" selection-start-column="2" selection-end-line="54" selection-end-column="3" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
                   </folding>
@@ -55,56 +64,38 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="shouye.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="shouye.wxss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.wxss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="91">
-                  <caret line="142" column="21" selection-start-line="142" selection-start-column="21" selection-end-line="142" selection-end-column="21" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="223">
-                  <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="register.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/register/register.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="435">
-                  <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="app.json" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+                <state relative-caret-position="135">
+                  <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="register.wxml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/register/register.wxml">
+          <file leaf-file-name="guodu.wxml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/guodu/guodu.wxml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="195">
-                  <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+                <state relative-caret-position="120">
+                  <caret line="4" column="83" lean-forward="true" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="share.wxml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pages/share/share.wxml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="299">
+                  <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="guodu.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/guodu/guodu.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
                 </state>
               </provider>
             </entry>
@@ -116,26 +107,35 @@
           <file leaf-file-name="shouye.wxss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.wxss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="505">
-                  <caret line="233" selection-start-line="233" selection-end-line="233" />
+                <state relative-caret-position="139">
+                  <caret line="178" column="2" selection-start-line="178" selection-start-column="2" selection-end-line="178" selection-end-column="36" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="register.wxss" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/pages/register/register.wxss">
+          <file leaf-file-name="guodu.wxss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/guodu/guodu.wxss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="430">
-                  <caret line="157" selection-start-line="157" selection-end-line="157" />
+                <state relative-caret-position="70">
+                  <caret line="174" column="25" selection-start-line="174" selection-start-column="25" selection-end-line="174" selection-end-column="25" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.wxml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/index/index.wxml">
+          <file leaf-file-name="share.wxss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pages/share/share.wxss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="16" selection-start-line="1" selection-end-line="11" selection-end-column="7" />
+                <state relative-caret-position="480">
+                  <caret line="358" column="23" selection-start-line="358" selection-start-column="23" selection-end-line="358" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="share.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/share/share.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="401">
+                  <caret line="57" column="48" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="48" />
                 </state>
               </provider>
             </entry>
@@ -155,9 +155,12 @@
     <findStrings>
       <find>\&quot;</find>
       <find>userInfoReadyCallback</find>
+      <find>nickname</find>
+      <find>_id6</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
+      <replace>nickName</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -172,12 +175,18 @@
         <option value="$PROJECT_DIR$/pages/page/page.js" />
         <option value="$PROJECT_DIR$/pages/shouye/shouye.js" />
         <option value="$PROJECT_DIR$/pages/shouye/shouye.wxml" />
-        <option value="$PROJECT_DIR$/app.json" />
         <option value="$PROJECT_DIR$/pages/register/register.wxml" />
-        <option value="$PROJECT_DIR$/pages/shouye/shouye.wxss" />
         <option value="$PROJECT_DIR$/pages/register/register.wxss" />
         <option value="$PROJECT_DIR$/pages/register/register.js" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/pages/shouye/shouye.wxss" />
+        <option value="$PROJECT_DIR$/pages/guodu/guodu.wxss" />
+        <option value="$PROJECT_DIR$/pages/guodu/guodu.wxml" />
+        <option value="$PROJECT_DIR$/pages/guodu/guodu.js" />
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/pages/share/share.js" />
+        <option value="$PROJECT_DIR$/pages/share/share.wxml" />
+        <option value="$PROJECT_DIR$/pages/share/share.wxss" />
       </list>
     </option>
   </component>
@@ -224,13 +233,19 @@
               <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
               <item name="Olay" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="guodu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Olay" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="index" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
               <item name="Olay" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="register" type="462c0819:PsiDirectoryNode" />
+              <item name="share" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
@@ -289,7 +304,7 @@
       <workItem from="1544058532371" duration="6009000" />
       <workItem from="1544089108874" duration="8026000" />
       <workItem from="1544144579364" duration="599000" />
-      <workItem from="1544234160737" duration="4585000" />
+      <workItem from="1544234160737" duration="10495000" />
     </task>
     <task id="LOCAL-00001" summary="完成首页的动画">
       <created>1544104769816</created>
@@ -298,11 +313,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544104769816</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="过渡">
+      <created>1544241758584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544241758584</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22797000" />
+    <option name="totallyTimeSpent" value="28707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -353,39 +375,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完成首页的动画" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成首页的动画" />
+    <MESSAGE value="过渡" />
+    <option name="LAST_COMMIT_MESSAGE" value="过渡" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/index/index.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/page/page.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.wxss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app1.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/page/page.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -524,25 +517,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/register.json">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.wxml">
       <provider selected="true" editor-type-id="text-editor">
@@ -558,13 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.wxss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="142" column="21" selection-start-line="142" selection-start-column="21" selection-end-line="142" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -591,8 +560,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
+        <state relative-caret-position="1125">
           <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="178" column="2" selection-start-line="178" selection-start-column="2" selection-end-line="178" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/guodu/guodu.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="83" lean-forward="true" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/guodu/guodu.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="174" column="25" selection-start-line="174" selection-start-column="25" selection-end-line="174" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="48" column="4" lean-forward="true" selection-start-line="47" selection-start-column="2" selection-end-line="54" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/guodu/guodu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/share/share.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="57" column="48" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/share/share.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/share/share.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="358" column="23" selection-start-line="358" selection-start-column="23" selection-end-line="358" selection-end-column="23" />
         </state>
       </provider>
     </entry>

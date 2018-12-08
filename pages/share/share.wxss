@@ -1,0 +1,360 @@
+.bitmap1 {
+  position: absolute;
+  visibility: hidden;
+  width: 620rpx;
+  height: 651rpx;
+}
+
+g {
+  pointer-events: visiblePainted;
+}
+
+.bitmap2 {
+  position: absolute;
+  visibility: hidden;
+  width: 750rpx;
+  height: 1875rpx;
+}
+
+.bitmap3 {
+  position: absolute;
+  visibility: hidden;
+  width: 238rpx;
+  height: 34rpx;
+}
+
+.bitmap4 {
+  position: absolute;
+  visibility: hidden;
+  width: 111rpx;
+  height: 19rpx;
+}
+
+.bitmap5 {
+  position: absolute;
+  visibility: hidden;
+  width: 111rpx;
+  height: 19rpx;
+}
+
+.bitmap6 {
+  position: absolute;
+  visibility: hidden;
+  width: 111rpx;
+  height: 19rpx;
+}
+
+.bitmap7 {
+  position: absolute;
+  visibility: hidden;
+  width: 102rpx;
+  height: 16rpx;
+}
+
+.bitmap8 {
+  position: absolute;
+  visibility: hidden;
+  width: 72rpx;
+  height: 16rpx;
+}
+
+.bitmap9 {
+  position: absolute;
+  visibility: hidden;
+  width: 171rpx;
+  height: 20rpx;
+}
+
+.bitmap10 {
+  position: absolute;
+  visibility: hidden;
+  width: 333rpx;
+  height: 118rpx;
+}
+
+.bitmap11 {
+  position: absolute;
+  visibility: hidden;
+  width: 534rpx;
+  height: 151rpx;
+}
+
+.bitmap12 {
+  position: absolute;
+  visibility: hidden;
+  width: 534rpx;
+  height: 155rpx;
+}
+
+.bitmap13 {
+  position: absolute;
+  visibility: hidden;
+  width: 534rpx;
+  height: 152rpx;
+}
+
+.bitmap14 {
+  position: absolute;
+  visibility: hidden;
+  width: 342rpx;
+  height: 65rpx;
+}
+
+.bitmap15 {
+  position: absolute;
+  visibility: hidden;
+  width: 67rpx;
+  height: 67rpx;
+}
+
+.bitmap16 {
+  position: absolute;
+  visibility: hidden;
+  width: 48rpx;
+  height: 15rpx;
+}
+
+.bitmap17 {
+  position: absolute;
+  visibility: hidden;
+  width: 212rpx;
+  height: 178rpx;
+}
+
+.bitmap18 {
+  position: absolute;
+  visibility: hidden;
+  width: 62rpx;
+  height: 175rpx;
+}
+
+.bitmap19 {
+  position: absolute;
+  visibility: hidden;
+  width: 181rpx;
+  height: 297rpx;
+}
+
+.bitmap20 {
+  position: absolute;
+  visibility: hidden;
+  width: 625rpx;
+  height: 963rpx;
+}
+
+.bitmap21 {
+  position: absolute;
+  visibility: hidden;
+  width: 750rpx;
+  height: 1875rpx;
+}
+
+#share {
+  position: absolute;
+  overflow: hidden;
+  width: 750rpx;
+  height: 1875rpx;
+  background: #ffffff;
+}
+
+.share ._id {
+  position: absolute;
+  visibility: inherit;
+}
+
+.share ._id1 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(65rpx, 196rpx, 0);
+  -webkit-transform: translate3d(65rpx, 196rpx, 0);
+}
+
+.share ._id2 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(287rpx, 439rpx, 0);
+  -webkit-transform: translate3d(287rpx, 439rpx, 0);
+}
+
+.share ._id3 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(347rpx, 150rpx, 0);
+  -webkit-transform: translate3d(347rpx, 150rpx, 0);
+}
+
+.share ._id4 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(398rpx, 776rpx, 0);
+  -webkit-transform: translate3d(398rpx, 776rpx, 0);
+}
+
+.share ._id5 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(355rpx, 407rpx, 0);
+  -webkit-transform: translate3d(355rpx, 407rpx, 0);
+}
+
+.share ._id6 {
+  position: absolute;
+  visibility: inherit;
+  -webkit-transform: translate3d(342rpx, 336rpx, 0);
+}
+
+.share ._id7 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(212rpx, 76rpx, 0);
+  -webkit-transform: translate3d(212rpx, 76rpx, 0);
+}
+
+.share ._id8 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(121rpx, 1183rpx, 0);
+  -webkit-transform: translate3d(121rpx, 1183rpx, 0);
+}
+
+.share ._id9 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(119rpx, 1360rpx, 0);
+  -webkit-transform: translate3d(119rpx, 1360rpx, 0);
+}
+
+.share ._id10 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(121rpx, 1540rpx, 0);
+  -webkit-transform: translate3d(121rpx, 1540rpx, 0);
+}
+
+.share ._id11 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(221rpx, 1731rpx, 0);
+  -webkit-transform: translate3d(221rpx, 1731rpx, 0);
+}
+
+.share ._id12 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(303rpx, 1785rpx, 0);
+  -webkit-transform: translate3d(303rpx, 1785rpx, 0);
+}
+
+.share ._id13 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(350rpx, 1462rpx, 0);
+  -webkit-transform: translate3d(350rpx, 1462rpx, 0);
+}
+
+.share ._id14 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(433rpx, 1762rpx, 0);
+  -webkit-transform: translate3d(433rpx, 1762rpx, 0);
+}
+
+.share ._id15 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(455rpx, 1548rpx, 0);
+  -webkit-transform: translate3d(455rpx, 1548rpx, 0);
+}
+
+.share ._id16 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(199rpx, 1368rpx, 0);
+  -webkit-transform: translate3d(199rpx, 1368rpx, 0);
+}
+
+.share ._id17 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(392rpx, 1190rpx, 0);
+  -webkit-transform: translate3d(392rpx, 1190rpx, 0);
+}
+
+.share ._id18 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(269rpx, 25rpx, 0);
+  -webkit-transform: translate3d(269rpx, 25rpx, 0);
+}
+
+.share ._id19 {
+  position: absolute;
+  visibility: inherit;
+}
+
+.share ._id20 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(106rpx, 48rpx, 0);
+  -webkit-transform: translate3d(106rpx, 48rpx, 0);
+}
+
+.masks {
+  position: absolute;
+  left: 0rpx;
+  top: 0rpx;
+  width: 0rpx;
+  height: 0rpx;
+}
+
+.shareContain{
+  position:fixed;
+  top:0;
+  left:0;
+  display: none;
+}
+._id6{
+  border-radius:50%;
+}
+._id5.name{
+  color:black;
+  position:absolute;
+  display: block;
+  top:388rpx;
+  width:100%;
+  font-size: 16rpx;
+  height:auto;
+  -webkit-transform: none;
+  transform: none;
+  text-align: center
+}
+.share .lvxingText {
+  height: auto;
+  width: 100%;
+  font-size: 14rpx;
+  text-align: center;
+  -webkit-transform: none;
+  transform: none;
+  top:1282rpx;
+  pointer-events: none;
+}
+.share .wuzheText {
+  height: auto;
+  width: 100%;
+  font-size: 14rpx;
+  text-align: center;
+  -webkit-transform: none;
+  transform: none;
+  top:1460rpx;
+  pointer-events: none;
+}
+.share .yiyuanText {
+  height: auto;
+  width: 100%;
+  font-size: 14rpx;
+  text-align: center;
+  -webkit-transform: none;
+  transform: none;
+  top:1640rpx;
+  pointer-events: none;
+}

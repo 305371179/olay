@@ -109,8 +109,8 @@ g {
 .guodu ._id3 {
   position: absolute;
   visibility: inherit;
-  transform: translate3d(241rpx, 125rpx, 0);
-  -webkit-transform: translate3d(241rpx, 125rpx, 0);
+  left: 241rpx;
+  top: 125rpx;
 }
 
 .guodu ._id4 {
@@ -168,4 +168,40 @@ g {
   top: 0rpx;
   width: 0rpx;
   height: 0rpx;
+}
+
+@-webkit-keyframes ud1{
+  from,to{
+    -webkit-transform: translateY(-10rpx);
+  }
+  50%{
+    -webkit-transform: translateY(40rpx);
+  }
+}
+@-webkit-keyframes fadeIn{
+  from{
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+  }
+
+}
+.guodu ._id3{
+  -webkit-animation:ud1 1s infinite;
+}
+.guodu ._id6,.guodu ._id7,.guodu ._id8,.guodu ._id9{
+  opacity: 0;
+}
+.guodu ._id6{
+  -webkit-animation:fadeIn 1s 0.5s both;
+}
+.guodu ._id7{
+  -webkit-animation:fadeIn 1s 1s both;
+}
+.guodu ._id8{
+  -webkit-animation:fadeIn 1s 1.5s both;
+}
+.guodu ._id9{
+  -webkit-animation:fadeIn 1s 2s both;
 }
