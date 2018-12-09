@@ -1,0 +1,423 @@
+.bitmap1 {
+  position: absolute;
+  visibility: hidden;
+  width: 298rpx;
+  height: 65rpx;
+}
+
+g {
+  pointer-events: visiblePainted;
+}
+
+.bitmap2 {
+  position: absolute;
+  visibility: hidden;
+  width: 344rpx;
+  height: 80rpx;
+}
+
+.bitmap3 {
+  position: absolute;
+  visibility: hidden;
+  width: 51rpx;
+  height: 51rpx;
+}
+
+.bitmap4 {
+  position: absolute;
+  visibility: hidden;
+  width: 594rpx;
+  height: 464rpx;
+}
+
+.bitmap5 {
+  position: absolute;
+  visibility: hidden;
+  width: 750rpx;
+  height: 1762rpx;
+}
+
+.bitmap6 {
+  position: absolute;
+  visibility: hidden;
+  width: 238rpx;
+  height: 34rpx;
+}
+
+.bitmap7 {
+  position: absolute;
+  visibility: hidden;
+  width: 98rpx;
+  height: 21rpx;
+}
+
+.bitmap8 {
+  position: absolute;
+  visibility: hidden;
+  width: 86rpx;
+  height: 21rpx;
+}
+
+.bitmap9 {
+  position: absolute;
+  visibility: hidden;
+  width: 86rpx;
+  height: 21rpx;
+}
+
+.bitmap10 {
+  position: absolute;
+  visibility: hidden;
+  width: 56rpx;
+  height: 56rpx;
+}
+
+.bitmap11 {
+  position: absolute;
+  visibility: hidden;
+  width: 56rpx;
+  height: 56rpx;
+}
+
+.bitmap12 {
+  position: absolute;
+  visibility: hidden;
+  width: 56rpx;
+  height: 56rpx;
+}
+
+.bitmap13 {
+  position: absolute;
+  visibility: hidden;
+  width: 331rpx;
+  height: 49rpx;
+}
+
+.bitmap14 {
+  position: absolute;
+  visibility: hidden;
+  width: 593rpx;
+  height: 32rpx;
+}
+
+.bitmap15 {
+  position: absolute;
+  visibility: hidden;
+  width: 46rpx;
+  height: 46rpx;
+}
+
+.bitmap16 {
+  position: absolute;
+  visibility: hidden;
+  width: 46rpx;
+  height: 46rpx;
+}
+
+.bitmap17 {
+  position: absolute;
+  visibility: hidden;
+  width: 122rpx;
+  height: 20rpx;
+}
+
+.bitmap18 {
+  position: absolute;
+  visibility: hidden;
+  width: 121rpx;
+  height: 21rpx;
+}
+
+.bitmap19 {
+  position: absolute;
+  visibility: hidden;
+  width: 391rpx;
+  height: 424rpx;
+}
+
+.bitmap20 {
+  position: absolute;
+  visibility: hidden;
+  width: 332rpx;
+  height: 85rpx;
+}
+
+.bitmap21 {
+  position: absolute;
+  visibility: hidden;
+  width: 342rpx;
+  height: 65rpx;
+}
+
+.bitmap22 {
+  position: absolute;
+  visibility: hidden;
+  width: 67rpx;
+  height: 67rpx;
+}
+
+.bitmap23 {
+  position: absolute;
+  visibility: hidden;
+  width: 48rpx;
+  height: 15rpx;
+}
+
+.bitmap24 {
+  position: absolute;
+  visibility: hidden;
+  width: 117rpx;
+  height: 117rpx;
+}
+
+.bitmap25 {
+  position: absolute;
+  visibility: hidden;
+  width: 212rpx;
+  height: 178rpx;
+}
+
+.bitmap26 {
+  position: absolute;
+  visibility: hidden;
+  width: 62rpx;
+  height: 175rpx;
+}
+
+.bitmap27 {
+  position: absolute;
+  visibility: hidden;
+  width: 181rpx;
+  height: 297rpx;
+}
+
+.bitmap28 {
+  position: absolute;
+  visibility: hidden;
+  width: 625rpx;
+  height: 963rpx;
+}
+
+.bitmap29 {
+  position: absolute;
+  visibility: hidden;
+  width: 750rpx;
+  height: 1763rpx;
+}
+
+#friendIn {
+  position: absolute;
+  overflow: hidden;
+  width: 750rpx;
+  height: 1763rpx;
+  background: #ffffff;
+}
+
+.friendIn ._id {
+  position: absolute;
+  visibility: inherit;
+}
+
+.friendIn ._id1 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(71rpx, 200rpx, 0);
+  -webkit-transform: translate3d(71rpx, 200rpx, 0);
+}
+
+.friendIn ._id2 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(293rpx, 443rpx, 0);
+  -webkit-transform: translate3d(293rpx, 443rpx, 0);
+}
+
+.friendIn ._id3 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(353rpx, 154rpx, 0);
+  -webkit-transform: translate3d(353rpx, 154rpx, 0);
+}
+
+.friendIn ._id4 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(404rpx, 780rpx, 0);
+  -webkit-transform: translate3d(404rpx, 780rpx, 0);
+}
+
+.friendIn ._id5 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(318rpx, 936rpx, 0);
+  -webkit-transform: translate3d(318rpx, 936rpx, 0);
+}
+
+.friendIn ._id6 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(360rpx, 412rpx, 0);
+  -webkit-transform: translate3d(360rpx, 412rpx, 0);
+}
+
+.friendIn ._id7 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(353rpx, 341rpx, 0);
+  -webkit-transform: translate3d(353rpx, 341rpx, 0);
+}
+
+.friendIn ._id8 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(212rpx, 78rpx, 0);
+  -webkit-transform: translate3d(212rpx, 78rpx, 0);
+}
+
+.friendIn ._id9 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(227rpx, 1655rpx, 0);
+  -webkit-transform: translate3d(227rpx, 1655rpx, 0);
+}
+
+.friendIn ._id10 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(190rpx, 1292rpx, 0);
+  -webkit-transform: translate3d(190rpx, 1292rpx, 0);
+}
+
+.friendIn ._id11 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(242rpx, 1343rpx, 0);
+  -webkit-transform: translate3d(242rpx, 1343rpx, 0);
+}
+
+.friendIn ._id12 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(425rpx, 1287rpx, 0);
+  -webkit-transform: translate3d(425rpx, 1287rpx, 0);
+}
+
+.friendIn ._id13 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(84rpx, 1395rpx, 0);
+  -webkit-transform: translate3d(84rpx, 1395rpx, 0);
+}
+
+.friendIn ._id14 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(657rpx, 1578rpx, 0);
+  -webkit-transform: translate3d(657rpx, 1578rpx, 0);
+}
+
+.friendIn ._id15 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(76rpx, 1218rpx, 0);
+  -webkit-transform: translate3d(76rpx, 1218rpx, 0);
+}
+
+.friendIn ._id16 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(68rpx, 1222rpx, 0);
+  -webkit-transform: translate3d(68rpx, 1222rpx, 0);
+}
+
+.friendIn ._id17 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(161rpx, 1204rpx, 0);
+  -webkit-transform: translate3d(161rpx, 1204rpx, 0);
+}
+
+.friendIn ._id18 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(356rpx, 1203rpx, 0);
+  -webkit-transform: translate3d(356rpx, 1203rpx, 0);
+}
+
+.friendIn ._id19 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(633rpx, 1202rpx, 0);
+  -webkit-transform: translate3d(633rpx, 1202rpx, 0);
+}
+
+.friendIn ._id20 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(141rpx, 1184rpx, 0);
+  -webkit-transform: translate3d(141rpx, 1184rpx, 0);
+}
+
+.friendIn ._id21 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(334rpx, 1184rpx, 0);
+  -webkit-transform: translate3d(334rpx, 1184rpx, 0);
+}
+
+.friendIn ._id22 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(601rpx, 1184rpx, 0);
+  -webkit-transform: translate3d(601rpx, 1184rpx, 0);
+}
+
+.friendIn ._id23 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(269rpx, 27rpx, 0);
+  -webkit-transform: translate3d(269rpx, 27rpx, 0);
+}
+
+.friendIn ._id24 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(0, 1rpx, 0);
+  -webkit-transform: translate3d(0, 1rpx, 0);
+}
+
+.friendIn ._id25 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(80rpx, 821rpx, 0);
+  -webkit-transform: translate3d(80rpx, 821rpx, 0);
+}
+
+.friendIn ._id26 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(637rpx, 806rpx, 0);
+  -webkit-transform: translate3d(637rpx, 806rpx, 0);
+}
+
+.friendIn ._id27 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(206rpx, 997rpx, 0);
+  -webkit-transform: translate3d(206rpx, 997rpx, 0);
+}
+
+.friendIn ._id28 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(234rpx, 1145rpx, 0);
+  -webkit-transform: translate3d(234rpx, 1145rpx, 0);
+}
+
+.masks {
+  position: absolute;
+  left: 0rpx;
+  top: 0rpx;
+  width: 0rpx;
+  height: 0rpx;
+}

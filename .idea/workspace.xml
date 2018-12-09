@@ -2,41 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2069df29-a481-47c4-b9b6-827c20b6e9d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/guodu/guodu.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/chuandi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/countText.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/head.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/lvshen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/lvxing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/name.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/saoguang0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/saoguang1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/saoguang2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/saoguang3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/share.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/shareBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/shareBtn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/wuzhe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/xinyuan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/xinyuanBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/xinyuanText.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/xinyuanbackground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/share/yiyuan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/share.fla" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/share.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/share/share.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/share/share.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/share/share.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/share/share.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/friendIn.fla" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/friendIn.psb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/friendIn/friendIn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/friendIn/friendIn.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/friendIn/friendIn.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/hexiao.fla" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/hexiao.psb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/hexiao/hexiao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/hexiao/hexiao.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/hexiao/hexiao.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/hexiao/hexiao.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/closeBtn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/dianliang100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/dianliang15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/dianliang30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/guang2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/guang3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/lingquBtn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/lvshen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/ma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/popBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/popContentBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/process.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/processBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/star100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/star15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/star30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/tip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/xinyuan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/xinyuanBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/xinyuanText.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/xuxiaxinyuan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/zanfirst.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/zanlast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/zhuli.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/hexiao/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/hexiao/confirm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/hexiao/contentBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/hexiao/hexiao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/hexiao/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/hexiao/num0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/hexiao/num1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/hexiao/num2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/hexiao/num3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/hexiao/tip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/yuanwang.psb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/guodu.fla" beforeDir="false" afterPath="$PROJECT_DIR$/pages/guodu.fla" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/guodu/guodu.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/guodu/guodu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/guodu/guodu.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/guodu/guodu.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/guodu/guodu.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/guodu/guodu.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/shouye/shouye.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shouye/shouye.wxss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -56,7 +74,7 @@
             <entry file="file://$PROJECT_DIR$/pages/index/index.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="397">
-                  <caret line="48" column="4" lean-forward="true" selection-start-line="47" selection-start-column="2" selection-end-line="54" selection-end-column="3" />
+                  <caret line="48" column="4" selection-start-line="47" selection-start-column="2" selection-end-line="54" selection-end-column="3" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
                   </folding>
@@ -68,7 +86,7 @@
             <entry file="file://$PROJECT_DIR$/app.json">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="135">
-                  <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+                  <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -77,7 +95,7 @@
             <entry file="file://$PROJECT_DIR$/pages/guodu/guodu.wxml">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="120">
-                  <caret line="4" column="83" lean-forward="true" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+                  <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
                 </state>
               </provider>
             </entry>
@@ -85,8 +103,8 @@
           <file leaf-file-name="share.wxml" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/pages/share/share.wxml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="299">
-                  <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+                <state relative-caret-position="344">
+                  <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
                 </state>
               </provider>
             </entry>
@@ -304,7 +322,7 @@
       <workItem from="1544058532371" duration="6009000" />
       <workItem from="1544089108874" duration="8026000" />
       <workItem from="1544144579364" duration="599000" />
-      <workItem from="1544234160737" duration="10495000" />
+      <workItem from="1544234160737" duration="11122000" />
     </task>
     <task id="LOCAL-00001" summary="完成首页的动画">
       <created>1544104769816</created>
@@ -320,11 +338,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544241758584</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="share">
+      <created>1544280506268</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544280506268</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28707000" />
+    <option name="totallyTimeSpent" value="29334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -376,7 +401,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完成首页的动画" />
     <MESSAGE value="过渡" />
-    <option name="LAST_COMMIT_MESSAGE" value="过渡" />
+    <MESSAGE value="share" />
+    <option name="LAST_COMMIT_MESSAGE" value="share" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pages/page/page.js">
@@ -575,14 +601,14 @@
     <entry file="file://$PROJECT_DIR$/app.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/guodu/guodu.wxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="4" column="83" lean-forward="true" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+          <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
         </state>
       </provider>
     </entry>
@@ -596,7 +622,7 @@
     <entry file="file://$PROJECT_DIR$/pages/index/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
-          <caret line="48" column="4" lean-forward="true" selection-start-line="47" selection-start-column="2" selection-end-line="54" selection-end-column="3" />
+          <caret line="48" column="4" selection-start-line="47" selection-start-column="2" selection-end-line="54" selection-end-column="3" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -617,17 +643,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/share/share.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/share/share.wxss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="358" column="23" selection-start-line="358" selection-start-column="23" selection-end-line="358" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/share/share.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
         </state>
       </provider>
     </entry>

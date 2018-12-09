@@ -1,6 +1,8 @@
 {
   "pages": [
+    "pages/friendIn/friendIn",
     "pages/share/share",
+    "pages/hexiao/hexiao",
     "pages/guodu/guodu",
     "pages/shouye/shouye",
     "pages/index/index",

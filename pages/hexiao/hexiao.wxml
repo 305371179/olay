@@ -1,0 +1,12 @@
+<view class="stage hexiao" name="hexiao" id="hexiao">
+  <image class="bitmap10 _id" name="background" src="{{baseUrl+'hexiao/background.png'}}"></image>
+  <image class="bitmap9 _id1" name="contentBg" src="{{baseUrl+'hexiao/contentBg.png'}}"></image>
+  <image class="bitmap8 _id2" name="tip" src="{{baseUrl+'hexiao/tip.png'}}"></image>
+  <image class="bitmap7 _id3" name="confirm" src="{{baseUrl+'hexiao/confirm.png'}}"></image>
+  <image class="bitmap6 _id4" name="num0" src="{{baseUrl+'hexiao/num0.png'}}"></image>
+  <image class="bitmap5 _id5" name="num1" src="{{baseUrl+'hexiao/num1.png'}}"></image>
+  <image class="bitmap4 _id6" name="num2" src="{{baseUrl+'hexiao/num2.png'}}"></image>
+  <image class="bitmap3 _id7" name="num3" src="{{baseUrl+'hexiao/num3.png'}}"></image>
+  <image class="bitmap2 _id8" name="hexiao" src="{{baseUrl+'hexiao/hexiao.png'}}"></image>
+  <image class="bitmap1 _id9" name="logo" src="{{baseUrl+'hexiao/logo.png'}}"></image>
+</view>
