@@ -1,0 +1,17 @@
+<view class="stage meIn2" name="meIn2" id="meIn2">
+  <image class="bitmap15 _id" name="background" src="{{baseUrl+'meIn2/background.png'}}"></image>
+  <image class="bitmap14 _id1" name="btnText2" src="{{baseUrl+'meIn2/btnText2.png'}}"></image>
+  <image class="bitmap13 _id2" name="btnText1" src="{{baseUrl+'meIn2/btnText1.png'}}"></image>
+  <image class="bitmap12 _id3" name="lvxingBtm" src="{{baseUrl+'meIn2/lvxingBtm.png'}}"></image>
+  <image class="bitmap11 _id4" name="lvxingText" src="{{baseUrl+'meIn2/lvxingText.png'}}"></image>
+  <image class="bitmap10 _id5" name="wuzheBtn" src="{{baseUrl+'meIn2/wuzheBtn.png'}}"></image>
+  <image class="bitmap9 _id6" name="wuzheText" src="{{baseUrl+'meIn2/wuzheText.png'}}"></image>
+  <image class="bitmap8 _id7" name="yiyuanBtn" src="{{baseUrl+'meIn2/yiyuanBtn.png'}}"></image>
+  <image class="bitmap7 _id8" name="yiyuanText" src="{{baseUrl+'meIn2/yiyuanText.png'}}"></image>
+  <image class="bitmap6 _id9" name="chakanBtn" src="{{baseUrl+'meIn2/chakanBtn.png'}}"></image>
+  <image class="bitmap5 _id10" name="ranghaoyouBtn" src="{{baseUrl+'meIn2/ranghaoyouBtn.png'}}"></image>
+  <image class="bitmap4 _id11" name="mianhuBtn" src="{{baseUrl+'meIn2/mianhuBtn.png'}}"></image>
+  <image class="bitmap3 _id12" name="newPrize" src="{{baseUrl+'meIn2/newPrize.png'}}"></image>
+  <image class="bitmap2 _id13" name="content" src="{{baseUrl+'meIn2/content.png'}}"></image>
+  <image class="bitmap1 _id14" name="logo" src="{{baseUrl+'meIn2/logo.png'}}"></image>
+</view>

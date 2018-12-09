@@ -1,0 +1,27 @@
+<view class="stage yuanwang" name="yuanwang" id="yuanwang">
+  <image class="bitmap25 _id" name="background" src="{{baseUrl+'yuanwang/background.png'}}"></image>
+  <image class="bitmap24 _id1" name="contentBg4" src="{{baseUrl+'yuanwang/contentBg4.png'}}"></image>
+  <image class="bitmap23 _id2" name="human" src="{{baseUrl+'yuanwang/human.png'}}"></image>
+  <image class="bitmap22 _id3" name="wang" src="{{baseUrl+'yuanwang/wang.png'}}"></image>
+  <image class="bitmap21 _id4" name="ta2" src="{{baseUrl+'yuanwang/ta2.png'}}"></image>
+  <image class="bitmap20 _id5" name="contentBg3" src="{{baseUrl+'yuanwang/contentBg3.png'}}"></image>
+  <image class="bitmap19 _id6" name="contentText3" src="{{baseUrl+'yuanwang/contentText3.png'}}"></image>
+  <image class="bitmap18 _id7" name="shiye" src="{{baseUrl+'yuanwang/shiye.png'}}"></image>
+  <image class="bitmap17 _id8" name="contentBg2" src="{{baseUrl+'yuanwang/contentBg2.png'}}"></image>
+  <image class="bitmap16 _id9" name="contentText2" src="{{baseUrl+'yuanwang/contentText2.png'}}"></image>
+  <image class="bitmap15 _id10" name="dream" src="{{baseUrl+'yuanwang/dream.png'}}"></image>
+  <image class="bitmap14 _id11" name="ta0" src="{{baseUrl+'yuanwang/ta0.png'}}"></image>
+  <image class="bitmap13 _id12" name="contentBg1" src="{{baseUrl+'yuanwang/contentBg1.png'}}"></image>
+  <image class="bitmap12 _id13" name="contentText1" src="{{baseUrl+'yuanwang/contentText1.png'}}"></image>
+  <image class="bitmap11 _id14" name="love" src="{{baseUrl+'yuanwang/love.png'}}"></image>
+  <image class="bitmap10 _id15" name="ta" src="{{baseUrl+'yuanwang/ta.png'}}"></image>
+  <image class="bitmap9 _id16" name="contentBg" src="{{baseUrl+'yuanwang/contentBg.png'}}"></image>
+  <image class="bitmap8 _id17" name="xinyuan1" src="{{baseUrl+'yuanwang/xinyuan1.png'}}"></image>
+  <image class="bitmap7 _id18" name="lvshen" src="{{baseUrl+'yuanwang/lvshen.png'}}"></image>
+  <image class="bitmap6 _id19" name="heart" src="{{baseUrl+'yuanwang/heart.png'}}"></image>
+  <image class="bitmap5 _id20" name="upload" src="{{baseUrl+'yuanwang/upload.png'}}"></image>
+  <image class="bitmap4 _id21" name="next" src="{{baseUrl+'yuanwang/next.png'}}"></image>
+  <image class="bitmap3 _id22" name="pre" src="{{baseUrl+'yuanwang/pre.png'}}"></image>
+  <image class="bitmap2 _id23" name="xinyuan" src="{{baseUrl+'yuanwang/xinyuan.png'}}"></image>
+  <image class="bitmap1 _id24" name="logo" src="{{baseUrl+'yuanwang/logo.png'}}"></image>
+</view>

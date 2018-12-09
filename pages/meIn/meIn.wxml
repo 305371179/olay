@@ -1,0 +1,8 @@
+<view class="stage meIn" name="meIn" id="meIn">
+  <image class="bitmap6 _id" name="background" src="{{baseUrl+'meIn/background.png'}}"></image>
+  <image class="bitmap5 _id1" name="thankBtn" src="{{baseUrl+'meIn/thankBtn.png'}}"></image>
+  <image class="bitmap4 _id2" name="kaiqixinyuanBtn" src="{{baseUrl+'meIn/kaiqixinyuanBtn.png'}}"></image>
+  <image class="bitmap3 _id3" name="guang0" src="{{baseUrl+'meIn/guang0.png'}}"></image>
+  <image class="bitmap2 _id4" name="CONTENT" src="{{baseUrl+'meIn/CONTENT.png'}}"></image>
+  <image class="bitmap1 _id5" name="logo" src="{{baseUrl+'meIn/logo.png'}}"></image>
+</view>
