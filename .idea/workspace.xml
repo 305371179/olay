@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2069df29-a481-47c4-b9b6-827c20b6e9d0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/share/share.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/share/share.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/share/share.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/share/share.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/share/share.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/share/share.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/yuanwang/yuanwang.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/yuanwang/yuanwang.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,44 +20,91 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6329317">
+    <splitter split-orientation="horizontal" split-proportion="0.5437751">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="shouye.wxml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.wxml">
+          <file leaf-file-name="yuanwang.wxss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="94" selection-start-line="7" selection-start-column="94" selection-end-line="7" selection-end-column="94" />
+                <state relative-caret-position="205">
+                  <caret line="398" selection-start-line="371" selection-end-line="421" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="share.wxml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pages/share/share.wxml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="309">
+                  <caret line="75" column="106" selection-start-line="75" selection-start-column="106" selection-end-line="75" selection-end-column="106" />
                   <folding>
-                    <element signature="n#style#0;n#text#0;n#view#0;n#view#0;n#swiper-item#0;n#swiper#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#view#0;n#view#0;n#view#5;n#view#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#view#6;n#view#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#view#7;n#view#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="shouye.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.js">
+          <file leaf-file-name="yuanwang.wxml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+                <state relative-caret-position="217">
+                  <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+                  <folding>
+                    <element signature="n#style#0;n#view#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#view#0;n#view#5;n#view#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#image#3;n#view#0;n#!!top" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="choose.wxml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/choose/choose.wxml">
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="yuanwang.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="121" selection-start-line="5" selection-start-column="121" selection-end-line="5" selection-end-column="121" />
+                <state relative-caret-position="231">
+                  <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="share.wxml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/share/share.wxml">
+          <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="3" column="4" selection-start-line="3" selection-end-line="27" selection-end-column="13" />
+                <state relative-caret-position="149">
+                  <caret line="54" column="9" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="58" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="share.wxss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/share/share.wxss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="234">
+                  <caret line="334" column="19" selection-start-line="334" selection-start-column="19" selection-end-line="334" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="share.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pages/share/share.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="375">
+                  <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
                 </state>
               </provider>
             </entry>
@@ -64,71 +114,6 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="105">
                   <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="yuanwang.wxml" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="280">
-                  <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-                  <folding>
-                    <element signature="n#style#0;n#view#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#view#0;n#view#5;n#view#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#label#0;n#view#0;n#view#5;n#view#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#image#3;n#view#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="img1.png" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/img1.png">
-              <provider selected="true" editor-type-id="images" />
-            </entry>
-          </file>
-          <file leaf-file-name="img0.png" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/img0.png">
-              <provider selected="true" editor-type-id="images" />
-            </entry>
-          </file>
-          <file leaf-file-name="app.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="yuanwang.wxss" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="505">
-                  <caret line="420" column="34" selection-start-line="420" selection-start-column="34" selection-end-line="420" selection-end-column="34" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="yuanwang.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="217">
-                  <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="share.wxss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/share/share.wxss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="9600">
-                  <caret line="640" column="22" selection-start-line="640" selection-start-column="22" selection-end-line="640" selection-end-column="22" />
                 </state>
               </provider>
             </entry>
@@ -158,6 +143,8 @@
       <find>backgrou</find>
       <find>===</find>
       <find>red</find>
+      <find>visibility: hidden;</find>
+      <find>lvxingT</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -193,16 +180,16 @@
         <option value="$PROJECT_DIR$/pages/shouye/shouye.wxml" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/app.wxss" />
-        <option value="$PROJECT_DIR$/pages/share/share.js" />
-        <option value="$PROJECT_DIR$/pages/share/share.wxss" />
         <option value="$PROJECT_DIR$/pages/shouye/shouye.js" />
         <option value="$PROJECT_DIR$/pages/choose/choose.js" />
         <option value="$PROJECT_DIR$/pages/choose/choose.wxml" />
-        <option value="$PROJECT_DIR$/pages/share/share.wxml" />
-        <option value="$PROJECT_DIR$/app.json" />
-        <option value="$PROJECT_DIR$/pages/yuanwang/yuanwang.js" />
-        <option value="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml" />
         <option value="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss" />
+        <option value="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml" />
+        <option value="$PROJECT_DIR$/pages/yuanwang/yuanwang.js" />
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/pages/share/share.wxss" />
+        <option value="$PROJECT_DIR$/pages/share/share.js" />
+        <option value="$PROJECT_DIR$/pages/share/share.wxml" />
       </list>
     </option>
   </component>
@@ -258,12 +245,6 @@
               <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
               <item name="Olay" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="guodu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Olay" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="index" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -283,19 +264,6 @@
               <item name="Olay" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="register" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Olay" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Olay" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="yuanwang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
@@ -436,7 +404,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51373000" />
+    <option name="totallyTimeSpent" value="53726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -618,13 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.wxss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
@@ -659,17 +620,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/share/share.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/index/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="15" column="17" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -697,10 +654,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/share/share.wxml">
+    <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/img1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/img0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="205">
+          <caret line="398" selection-start-line="371" selection-end-line="421" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -711,50 +674,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.json">
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        <state relative-caret-position="149">
+          <caret line="54" column="9" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="58" selection-end-column="6" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/share/share.wxss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9600">
-          <caret line="640" column="22" selection-start-line="640" selection-start-column="22" selection-end-line="640" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/img1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/img0.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+        <state relative-caret-position="231">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        <state relative-caret-position="217">
+          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#view#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#view#0;n#view#5;n#view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#view#0;n#view#5;n#view#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#image#3;n#view#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss">
+    <entry file="file://$PROJECT_DIR$/pages/share/share.wxss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="420" column="34" selection-start-line="420" selection-start-column="34" selection-end-line="420" selection-end-column="34" />
+        <state relative-caret-position="234">
+          <caret line="334" column="19" selection-start-line="334" selection-start-column="19" selection-end-line="334" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/share/share.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/share/share.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="75" column="106" selection-start-line="75" selection-start-column="106" selection-end-line="75" selection-end-column="106" />
+          <folding>
+            <element signature="n#style#0;n#view#0;n#view#0;n#view#5;n#view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#6;n#view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#7;n#view#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

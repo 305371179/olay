@@ -17,9 +17,9 @@
         <image class="bitmap18 _id7" name="img3" src="{{baseUrl+'yuanwang/img3.png'}}"></image>
     </view>
     <!--财运-->
-    <view wx:if="{{current == 4 && !value && !focus}}">
+    <view wx:if="{{current == 4}}">
         <image class="bitmap23 _id2" name="img4" src="{{baseUrl+'yuanwang/img4.png'}}"></image>
-        <image class="bitmap22 _id3" name="contentText4" src="{{baseUrl+'yuanwang/contentText4.png'}}"></image>
+        <image  wx:if="{{!value && !focus}}" class="bitmap22 _id3" name="contentText4" src="{{baseUrl+'yuanwang/contentText4.png'}}"></image>
     </view>
     <image class="bitmap2 _id23" name="xinyuan" src="{{baseUrl+'yuanwang/xinyuan.png'}}"></image>
     <image class="bitmap1 _id24" name="logo" src="{{baseUrl+'yuanwang/logo.png'}}"></image>

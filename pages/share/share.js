@@ -7,7 +7,24 @@ Page({
     head: '',
     nickName:'',
     hasUserInfo: false,
-    show: 'none'
+    show: 'none',
+    current:4,
+    value: 'adfd',
+    values: ['整整齐齐','全家安康'],
+    labelShow:true,
+    //旅行助力
+    lvxingText:16,
+    wuzheText:16,
+    yiyuanText:16,
+  },
+  lvxingTap(){
+
+  },
+  wuzheTap(){
+
+  },
+  yiyuanTap(){
+
   },
   close(){
     this.setData({
@@ -19,7 +36,17 @@ Page({
       show: 'block'
     })
   },
-  onLoad(){
+  onLoad(options){
+    console.log(options)
+    if(options.type!==undefined){
+      const value = options.value
+      this.setData({
+        current:options.type,
+        value: value,
+        values: value.split('\n')
+      })
+    }
+
     if (app.globalData.userInfo) {
       this.setData({
         userInfo: app.globalData.userInfo,

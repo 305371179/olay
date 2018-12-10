@@ -30,10 +30,20 @@ Page({
     this.setFontSize()
   },
   bindtap(e){
+    if(!this.data.value&&this.data.current!==4){
+      wx.showToast({
+        icon: 'none',
+        title: '愿望不能为空',
+        duration: 2000,
+        mask: true
+      })
+      return
+    }
     //调用上传按钮
     wx.navigateTo({
-      url:'../share/share',
-      index: this.data.current
+      url:'../share/share?type='+this.data.current+'&value='+this.data.value,
+      type: this.data.current,
+      value: this.data.value
     })
   },
   bindchange(e){
