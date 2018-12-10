@@ -1,7 +1,7 @@
 <view class="stage share" name="share" id="share">
    <image class="bitmap21 _id" name="xinyuanbackground" src="{{baseUrl+'share/xinyuanbackground.png'}}"></image>
    <image class="bitmap20 _id1" name="xinyuanBg" src="{{baseUrl+'yuanwang/contentBg.png'}}"></image>
-  <view class="yuanwang">
+<!--  <view class="yuanwang">
      <image class="bitmap8 _id17 text" name="contentText0" src="{{baseUrl+'yuanwang/contentText0.png'}}"></image>
      <image class="bitmap22 _id3" name="contentText4" src="{{baseUrl+'yuanwang/contentText4.png'}}"></image>
    </view>
@@ -25,7 +25,11 @@
    <view class="yuanwang">
      <image class="bitmap23 _id2" name="img4" src="{{baseUrl+'yuanwang/img4.png'}}"></image>
      <image class="bitmap21 _id4" name="title4" src="{{baseUrl+'yuanwang/title4.png'}}"></image>
-   </view>
+   </view>-->
+
+
+
+
     <text class="_id5 name">
       {{nickName}}
     </text>

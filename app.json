@@ -1,9 +1,9 @@
 {
   "pages": [
+    "pages/share/share",
     "pages/yuanwang/yuanwang",
     "pages/choose/choose",
     "pages/shouye/shouye",
-    "pages/share/share",
 
 
 

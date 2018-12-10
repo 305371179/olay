@@ -370,13 +370,30 @@ g {
   height:186rpx;
 }
 .input{
-  text-align: center;
+  color:#dcbc6e;
+  text-align:center;
   position:absolute;
   left:0;
   right:0;
   margin:auto;
-  top:471rpx;
-  width:300rpx;
-  height:297rpx;
-  display: block;
+  font-size:80rpx;
+  top:437rpx;
+  width:480rpx;
+  height:822rpx;
+  display:block;
+}
+.textContain{
+  display: flex;
+  align-items: top;
+  justify-content: center;
+}
+label{
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+.inputContent{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

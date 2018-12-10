@@ -29,28 +29,28 @@
     <!--家庭-->
     <view wx:if="{{current == 0}}">
         <image class="bitmap11 _id14" name="img0" src="{{baseUrl+'yuanwang/img0.png'}}"></image>
-        <image class="bitmap10 _id15" name="title0" src="{{baseUrl+'yuanwang/title0.png'}}"></image>
+        <!--<image class="bitmap10 _id15" name="title0" src="{{baseUrl+'yuanwang/title0.png'}}"></image>-->
     </view>
     <!--家庭-->
     <view wx:if="{{current == 1}}">
         <image class="bitmap11 _id14" name="img0" src="{{baseUrl+'yuanwang/img0.png'}}"></image>
-        <image class="bitmap10 _id15" name="title0" src="{{baseUrl+'yuanwang/title0.png'}}"></image>
+        <!--<image class="bitmap10 _id15" name="title0" src="{{baseUrl+'yuanwang/title0.png'}}"></image>-->
     </view>
     <!--梦想-->
     <view wx:if="{{current == 2}}">
         <image class="bitmap15 _id10" name="img2" src="{{baseUrl+'yuanwang/img2.png'}}"></image>
-        <image class="bitmap14 _id11" name="title2" src="{{baseUrl+'yuanwang/title2.png'}}"></image>
+        <!--<image class="bitmap14 _id11" name="title2" src="{{baseUrl+'yuanwang/title2.png'}}"></image>-->
     </view>
     <!--事业-->
     <view wx:if="{{current == 3}}">
         <image class="bitmap18 _id7" name="img3" src="{{baseUrl+'yuanwang/img3.png'}}"></image>
-        <image class="bitmap21 _id4" name="title4" src="{{baseUrl+'yuanwang/title4.png'}}"></image>
+        <!--<image class="bitmap21 _id4" name="title4" src="{{baseUrl+'yuanwang/title4.png'}}"></image>-->
     </view>
     <!--财运-->
     <view wx:if="{{current == 4}}">
         <image class="bitmap23 _id2" name="img4" src="{{baseUrl+'yuanwang/img4.png'}}"></image>
         <image class="bitmap22 _id3" name="contentText4" src="{{baseUrl+'yuanwang/contentText4.png'}}"></image>
-        <image class="bitmap21 _id4" name="title4" src="{{baseUrl+'yuanwang/title4.png'}}"></image>
+        <!--<image class="bitmap21 _id4" name="title4" src="{{baseUrl+'yuanwang/title4.png'}}"></image>-->
     </view>
     <!--<swiper class="{{'page'+current}}"
             indicator-dots="{{false}}" current="{{current}}" bindchange="bindchange"
@@ -112,12 +112,14 @@
     </swiper>-->
     <image class="bitmap2 _id23" name="xinyuan" src="{{baseUrl+'yuanwang/xinyuan.png'}}"></image>
     <image class="bitmap1 _id24" name="logo" src="{{baseUrl+'yuanwang/logo.png'}}"></image>
-    <image class="bitmap8 _id17" name="contentText0" src="{{baseUrl+'yuanwang/contentText0.png'}}" style="z-index: 1"></image>
+    <!--<image class="bitmap8 _id17" name="contentText0" src="{{baseUrl+'yuanwang/contentText0.png'}}" style="z-index: 1"></image>-->
+    <view class="input textContain" wx:if="{{labelShow}}" bindtap="bindTextAreaFocus">
+        <label wx:for="{{values}}" wx:key="index" style="{{'font-size:'+fontSize+'rpx;width:'+width+'rpx;padding:'+width/4+'rpx;line-height:'+fontSize+'rpx;'}}">{{item}}</label>
+    </view>
+    <textarea wx:else class="input" value="{{value}}" maxlength="20" bindblur="bindTextAreaBlur"
+              bindfocus="bindTextAreaFocus" bindinput="bindinput"/>
     <image style="z-index: 1" bindtap="bindtap" class="bitmap5 _id20" name="upload"
            src="{{baseUrl+'yuanwang/upload.png'}}"></image>
-    <textarea class="input" value="{{value}}" maxlength="20" bindblur="bindTextAreaBlur"
-              bindfocus="bindTextAreaFocus" placeholder="自动变高" />
-
     <!--<image class="bitmap4 _id21" name="next" src="{{baseUrl+'yuanwang/next.png'}}"></image>-->
     <!--<image class="bitmap3 _id22" name="pre" src="{{baseUrl+'yuanwang/pre.png'}}"></image>-->
 </view>
