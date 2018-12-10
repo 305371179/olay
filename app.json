@@ -1,14 +1,18 @@
 {
   "pages": [
-    "pages/share/share",
     "pages/yuanwang/yuanwang",
+    "pages/choose/choose",
     "pages/shouye/shouye",
+    "pages/share/share",
+
+
+
+
     "pages/meIn2/meIn2",
     "pages/meIn/meIn",
     "pages/friendIn/friendIn",
     "pages/hexiao/hexiao",
     "pages/guodu/guodu",
-    
     "pages/index/index",
     "pages/register/register",
     "pages/logs/logs",

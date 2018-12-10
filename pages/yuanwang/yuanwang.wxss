@@ -369,3 +369,14 @@ g {
   width:41rpx;
   height:186rpx;
 }
+.input{
+  text-align: center;
+  position:absolute;
+  left:0;
+  right:0;
+  margin:auto;
+  top:471rpx;
+  width:300rpx;
+  height:297rpx;
+  display: block;
+}

@@ -2,61 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2069df29-a481-47c4-b9b6-827c20b6e9d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/res/yuanwang/title3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/choose.fla" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/choose.psb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/choose/choose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/choose/choose.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/choose/choose.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/choose/choose.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/choose/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/choose/des.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/choose/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/choose/star0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/choose/star1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/choose/star2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/choose/star3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/choose/star4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/choose/title.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/app.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/guodu/guodu.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/guodu/guodu.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentBg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentBg1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentBg2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentBg3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentBg4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentText1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentText2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentText3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/dream.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/heart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/human.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/love.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/lvshen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/pre.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/shiye.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/ta.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/ta0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/ta2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/upload.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/wang.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/xinyuan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/xinyuan1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/share/share.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/share/share.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/share/share.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/share/share.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/share/share.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/share/share.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/shouye/shouye.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shouye/shouye.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/shouye/shouye.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shouye/shouye.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/shouye/shouye.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shouye/shouye.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/yuanwang.fla" beforeDir="false" afterPath="$PROJECT_DIR$/pages/yuanwang.fla" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/yuanwang.psb" beforeDir="false" afterPath="$PROJECT_DIR$/pages/yuanwang.psb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/yuanwang/yuanwang.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/yuanwang/yuanwang.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,26 +35,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.62168676">
+    <splitter split-orientation="horizontal" split-proportion="0.44605184">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/index/index.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="15" column="17" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="17" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="shouye.wxml" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.wxml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+                <state relative-caret-position="255">
+                  <caret line="13" column="145" lean-forward="true" selection-start-line="13" selection-start-column="145" selection-end-line="13" selection-end-column="145" />
                   <folding>
                     <element signature="n#style#0;n#text#0;n#view#0;n#view#0;n#swiper-item#0;n#swiper#0;n#!!top" expanded="true" />
                   </folding>
@@ -96,41 +50,43 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="yuanwang.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.js">
+          <file leaf-file-name="shouye.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+                <state relative-caret-position="150">
+                  <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="share.wxml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pages/share/share.wxml">
+          <file leaf-file-name="choose.wxml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/choose/choose.wxml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="93">
-                  <caret line="4" column="108" selection-start-line="4" selection-start-column="108" selection-end-line="4" selection-end-column="108" />
-                  <folding>
-                    <element signature="n#style#0;n#view#0;n#view#0;n#!!top" expanded="true" />
-                  </folding>
+                <state relative-caret-position="120">
+                  <caret line="5" column="121" lean-forward="true" selection-start-line="5" selection-start-column="121" selection-end-line="5" selection-end-column="121" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="share.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/pages/share/share.js">
+          <file leaf-file-name="choose.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/choose/choose.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
-                  <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+                <state relative-caret-position="105">
+                  <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="yuanwang.wxml" pinned="false" current-in-tab="false">
+          <file leaf-file-name="yuanwang.wxml" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="110">
-                  <caret line="65" column="110" lean-forward="true" selection-start-line="65" selection-start-column="110" selection-end-line="65" selection-end-column="110" />
+                <state relative-caret-position="725">
+                  <caret line="112" column="97" lean-forward="true" selection-start-line="112" selection-start-column="97" selection-end-line="112" selection-end-column="97" />
+                  <folding>
+                    <element signature="n#style#0;n#view#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#image#3;n#view#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#image#4;n#view#0;n#!!top" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -138,8 +94,8 @@
           <file leaf-file-name="app.json" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="195">
-                  <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+                <state relative-caret-position="30">
+                  <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="30" />
                 </state>
               </provider>
             </entry>
@@ -151,13 +107,22 @@
           <file leaf-file-name="yuanwang.wxss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="349" column="18" selection-start-line="192" selection-end-line="359" />
+                <state relative-caret-position="776">
+                  <caret line="372" column="20" selection-start-line="372" selection-start-column="20" selection-end-line="372" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="share.wxss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="yuanwang.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="share.wxss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pages/share/share.wxss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="520">
@@ -188,14 +153,25 @@
       <find>title2</find>
       <find>nickname</find>
       <find>bitmap9</find>
+      <find>backgrou</find>
+      <find>===</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
       <replace>nickName</replace>
+      <replace>==</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/pages</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev_api" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -211,17 +187,19 @@
         <option value="$PROJECT_DIR$/pages/guodu/guodu.wxss" />
         <option value="$PROJECT_DIR$/pages/shouye/shouye.wxss" />
         <option value="$PROJECT_DIR$/pages/guodu/guodu.js" />
-        <option value="$PROJECT_DIR$/pages/shouye/shouye.js" />
         <option value="$PROJECT_DIR$/pages/shouye/shouye.wxml" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/app.wxss" />
-        <option value="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss" />
-        <option value="$PROJECT_DIR$/pages/yuanwang/yuanwang.js" />
         <option value="$PROJECT_DIR$/pages/share/share.js" />
-        <option value="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml" />
-        <option value="$PROJECT_DIR$/app.json" />
         <option value="$PROJECT_DIR$/pages/share/share.wxss" />
         <option value="$PROJECT_DIR$/pages/share/share.wxml" />
+        <option value="$PROJECT_DIR$/pages/shouye/shouye.js" />
+        <option value="$PROJECT_DIR$/pages/choose/choose.js" />
+        <option value="$PROJECT_DIR$/pages/choose/choose.wxml" />
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss" />
+        <option value="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml" />
+        <option value="$PROJECT_DIR$/pages/yuanwang/yuanwang.js" />
       </list>
     </option>
   </component>
@@ -241,8 +219,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="668" />
-    <option name="y" value="72" />
+    <option name="x" value="186" />
+    <option name="y" value="364" />
     <option name="width" value="1680" />
     <option name="height" value="941" />
   </component>
@@ -266,6 +244,12 @@
               <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
               <item name="Olay" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Olay" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="choose" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
@@ -302,6 +286,12 @@
               <item name="Olay" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="share" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Olay" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="shouye" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
@@ -409,20 +399,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38974000" />
+    <option name="totallyTimeSpent" value="43484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32923076" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -431,25 +421,24 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32923076" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -468,16 +457,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="meIn2" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/index/index.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index/index.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/form/form.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -541,9 +520,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/register.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/register.json" />
     <entry file="file://$PROJECT_DIR$/pages/register/register.wxss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="430">
@@ -600,8 +577,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        <state relative-caret-position="15">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -615,41 +592,20 @@
     <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/title0.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#text#0;n#view#0;n#view#0;n#swiper-item#0;n#swiper#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/contentBg2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/contentBg1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/contentBg4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/contentBg4.png" />
     <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/contentText0.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/contentText1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/wang.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/wang.png" />
     <entry file="file://$PROJECT_DIR$/pages/res/yuanwang/contentBg3.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -660,41 +616,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index/index.js">
+    <entry file="file://$PROJECT_DIR$/pages/share/share.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="349" column="18" selection-start-line="192" selection-end-line="359" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="65" column="110" lean-forward="true" selection-start-line="65" selection-start-column="110" selection-end-line="65" selection-end-column="110" />
+        <state relative-caret-position="855">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -707,18 +632,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/share/share.wxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="4" column="108" selection-start-line="4" selection-start-column="108" selection-end-line="4" selection-end-column="108" />
+        <state relative-caret-position="120">
+          <caret line="5" column="108" selection-start-line="5" selection-start-column="108" selection-end-line="5" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="17" />
           <folding>
-            <element signature="n#style#0;n#view#0;n#view#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/share/share.js">
+    <entry file="file://$PROJECT_DIR$/pages/choose/choose.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="105">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/shouye/shouye.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="13" column="145" lean-forward="true" selection-start-line="13" selection-start-column="145" selection-end-line="13" selection-end-column="145" />
+          <folding>
+            <element signature="n#style#0;n#text#0;n#view#0;n#view#0;n#swiper-item#0;n#swiper#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/choose/choose.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="121" lean-forward="true" selection-start-line="5" selection-start-column="121" selection-end-line="5" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="372" column="20" selection-start-line="372" selection-start-column="20" selection-end-line="372" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="112" column="97" lean-forward="true" selection-start-line="112" selection-start-column="97" selection-end-line="112" selection-end-column="97" />
+          <folding>
+            <element signature="n#style#0;n#view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#3;n#view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#4;n#view#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,143 @@
+.bitmap1 {
+  position: absolute;
+  visibility: hidden;
+  width: 238rpx;
+  height: 34rpx;
+}
+
+g {
+  pointer-events: visiblePainted;
+}
+
+.bitmap2 {
+  position: absolute;
+  visibility: hidden;
+  width: 250rpx;
+  height: 291rpx;
+}
+
+.bitmap3 {
+  position: absolute;
+  visibility: hidden;
+  width: 289rpx;
+  height: 313rpx;
+}
+
+.bitmap4 {
+  position: absolute;
+  visibility: hidden;
+  width: 307rpx;
+  height: 313rpx;
+}
+
+.bitmap5 {
+  position: absolute;
+  visibility: hidden;
+  width: 307rpx;
+  height: 313rpx;
+}
+
+.bitmap6 {
+  position: absolute;
+  visibility: hidden;
+  width: 246rpx;
+  height: 278rpx;
+}
+
+.bitmap7 {
+  position: absolute;
+  visibility: hidden;
+  width: 619rpx;
+  height: 862rpx;
+}
+
+.bitmap8 {
+  position: absolute;
+  visibility: hidden;
+  width: 382rpx;
+  height: 65rpx;
+}
+
+.bitmap9 {
+  position: absolute;
+  visibility: hidden;
+  width: 750rpx;
+  height: 1212rpx;
+}
+
+#choose {
+  position: absolute;
+  overflow: hidden;
+  width: 750rpx;
+  height: 1212rpx;
+  background: #ffffff;
+}
+
+.choose ._id {
+  position: absolute;
+  visibility: inherit;
+}
+
+.choose ._id1 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(189rpx, 89rpx, 0);
+  -webkit-transform: translate3d(189rpx, 89rpx, 0);
+}
+
+.choose ._id2 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(62rpx, 228rpx, 0);
+  -webkit-transform: translate3d(62rpx, 228rpx, 0);
+}
+
+.choose ._id3 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(149rpx, 318rpx, 0);
+  -webkit-transform: translate3d(149rpx, 318rpx, 0);
+}
+
+.choose ._id4 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(386rpx, 168rpx, 0);
+  -webkit-transform: translate3d(386rpx, 168rpx, 0);
+}
+
+.choose ._id5 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(217rpx, 834rpx, 0);
+  -webkit-transform: translate3d(217rpx, 834rpx, 0);
+}
+
+.choose ._id6 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(0, 580rpx, 0);
+  -webkit-transform: translate3d(0, 580rpx, 0);
+}
+
+.choose ._id7 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(392rpx, 554rpx, 0);
+  -webkit-transform: translate3d(392rpx, 554rpx, 0);
+}
+
+.choose ._id8 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(269rpx, 27rpx, 0);
+  -webkit-transform: translate3d(269rpx, 27rpx, 0);
+}
+
+.masks {
+  position: absolute;
+  left: 0rpx;
+  top: 0rpx;
+  width: 0rpx;
+  height: 0rpx;
+}

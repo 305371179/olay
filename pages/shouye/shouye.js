@@ -10,8 +10,9 @@ Page({
   },
   //过渡页跳转
   bindtap(){
+    //跳转到选择愿望的页面
     wx.navigateTo({
-      url: '../yuanwang/yuanwang'
+      url: '../choose/choose'
     })
   }
 })

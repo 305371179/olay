@@ -3,7 +3,13 @@ const app = getApp()
 Page({
   data: {
     baseUrl: app.globalData.baseUrl,
-    current: 0
+    current: 0,
+    value: '',
+  },
+  onLoad(options){
+    this.setData({
+      current:options.type
+    })
   },
   bindtap(e){
     wx.navigateTo({
@@ -13,6 +19,11 @@ Page({
   },
   bindchange(e){
     this.current = e.detail.current
-    console.log(e.detail.current)
+  },
+  bindTextAreaBlur(){
+
+  },
+  bindTextAreaFocus(){
+
   }
 })
