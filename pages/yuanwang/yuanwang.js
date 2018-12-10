@@ -3,7 +3,7 @@ const app = getApp()
 Page({
   data: {
     baseUrl: app.globalData.baseUrl,
-    current: 1,
+    current: 0,
     value: '家人安康\n整整齐齐',
     fontSize: 80,
     width:80,
