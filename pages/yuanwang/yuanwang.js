@@ -18,7 +18,7 @@ Page({
     this.setData({
       values: this.data.value.split('\n')
     })
-    // this.setFontSize()
+    this.setFontSize()
   },
   bindtap(e){
     //调用上传按钮
@@ -42,11 +42,13 @@ Page({
   },
   setFontSize(){
     const length = this.data.value.length
-    let size = parseInt(20/length*80)
+    let size = 80// parseInt(20/length*80)
     if(length<10){
       size=80
     }else if(length<15){
       size = 60
+    }else{
+      size=60
     }
     this.setData({
       fontSize: size,
