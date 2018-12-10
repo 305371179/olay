@@ -2,61 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2069df29-a481-47c4-b9b6-827c20b6e9d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/res/yuanwang/title3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/app.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/guodu/guodu.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/guodu/guodu.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentBg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentBg1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentBg2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentBg3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentBg4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentText1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentText2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/contentText3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/dream.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/heart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/human.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/love.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/lvshen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/pre.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/shiye.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/ta.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/ta0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/ta2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/upload.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/wang.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/xinyuan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/xinyuan1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/res/yuanwang/yuanwang_atlas_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/share/share.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/share/share.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/share/share.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/share/share.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/share/share.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/share/share.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/shouye/shouye.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shouye/shouye.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/shouye/shouye.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shouye/shouye.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/shouye/shouye.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shouye/shouye.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/yuanwang.fla" beforeDir="false" afterPath="$PROJECT_DIR$/pages/yuanwang.fla" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/yuanwang.psb" beforeDir="false" afterPath="$PROJECT_DIR$/pages/yuanwang.psb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/yuanwang/yuanwang.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/yuanwang/yuanwang.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -105,11 +51,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="share.wxml" pinned="false" current-in-tab="false">
+          <file leaf-file-name="share.wxml" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/pages/share/share.wxml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="93">
-                  <caret line="4" column="108" selection-start-line="4" selection-start-column="108" selection-end-line="4" selection-end-column="108" />
+                <state relative-caret-position="120">
+                  <caret line="5" column="108" lean-forward="true" selection-start-line="5" selection-start-column="108" selection-end-line="5" selection-end-column="108" />
                   <folding>
                     <element signature="n#style#0;n#view#0;n#view#0;n#!!top" expanded="true" />
                   </folding>
@@ -117,11 +63,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="share.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="share.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pages/share/share.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
-                  <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+                <state relative-caret-position="855">
+                  <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -217,10 +163,10 @@
         <option value="$PROJECT_DIR$/app.wxss" />
         <option value="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxss" />
         <option value="$PROJECT_DIR$/pages/yuanwang/yuanwang.js" />
-        <option value="$PROJECT_DIR$/pages/share/share.js" />
         <option value="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml" />
         <option value="$PROJECT_DIR$/app.json" />
         <option value="$PROJECT_DIR$/pages/share/share.wxss" />
+        <option value="$PROJECT_DIR$/pages/share/share.js" />
         <option value="$PROJECT_DIR$/pages/share/share.wxml" />
       </list>
     </option>
@@ -361,7 +307,7 @@
       <workItem from="1544058532371" duration="6009000" />
       <workItem from="1544089108874" duration="8026000" />
       <workItem from="1544144579364" duration="599000" />
-      <workItem from="1544234160737" duration="20762000" />
+      <workItem from="1544234160737" duration="21030000" />
     </task>
     <task id="LOCAL-00001" summary="完成首页的动画">
       <created>1544104769816</created>
@@ -405,11 +351,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544365941821</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="meIn2">
+      <created>1544417718904</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544417718904</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38974000" />
+    <option name="totallyTimeSpent" value="39242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -705,20 +658,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/share/share.wxml">
+    <entry file="file://$PROJECT_DIR$/pages/share/share.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="4" column="108" selection-start-line="4" selection-start-column="108" selection-end-line="4" selection-end-column="108" />
-          <folding>
-            <element signature="n#style#0;n#view#0;n#view#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="855">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/share/share.js">
+    <entry file="file://$PROJECT_DIR$/pages/share/share.wxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="120">
+          <caret line="5" column="108" lean-forward="true" selection-start-line="5" selection-start-column="108" selection-end-line="5" selection-end-column="108" />
+          <folding>
+            <element signature="n#style#0;n#view#0;n#view#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
