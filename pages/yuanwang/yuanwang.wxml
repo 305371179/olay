@@ -17,7 +17,7 @@
         <image class="bitmap18 _id7" name="img3" src="{{baseUrl+'yuanwang/img3.png'}}"></image>
     </view>
     <!--财运-->
-    <view wx:if="{{current == 4}}">
+    <view wx:if="{{current == 4 && !value && !focus}}">
         <image class="bitmap23 _id2" name="img4" src="{{baseUrl+'yuanwang/img4.png'}}"></image>
         <image class="bitmap22 _id3" name="contentText4" src="{{baseUrl+'yuanwang/contentText4.png'}}"></image>
     </view>
@@ -27,9 +27,9 @@
     <view class="bitmap9 _id16 outContain" name="contentBg">
         <view class="input textContain" wx:if="{{labelShow}}" bindtap="bindTextAreaFocus" style="{{'font-size:'+fontSize+'rpx;width:'+width+'rpx;padding:'+width/3+'rpx;line-height:'+fontSize*1.2+'rpx;letter-space:'+width/3+'rpx;'}}">
             <!--{{value}}-->
-            <label wx:for="{{values}}" wx:key="index" style="{{'font-size:'+fontSize+'rpx;width:'+width+'rpx;padding:'+width/4+'rpx;line-height:'+fontSize+'rpx;'}}">{{item}}</label>
+            <label wx:for="{{values}}" wx:key="index" >{{item}}</label>
         </view>
-        <textarea wx:else class="input" value="{{value}}" maxlength="20" bindblur="bindTextAreaBlur"
+        <textarea focus="{{focus}}" wx:else class="input" value="{{value}}" maxlength="20" bindblur="bindTextAreaBlur"
                   bindfocus="bindTextAreaFocus" bindinput="bindinput" bindconfirm="bindTextAreaBlur"/>
     </view>
 

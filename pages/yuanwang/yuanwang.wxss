@@ -412,3 +412,11 @@ label{
   align-items: center;
   justify-content: center;
 }
+textarea.input{
+  font-size: 70rpx;
+  height:350rpx;
+  position:relative;
+  top:-50rpx;
+  padding:8rpx;
+  background: rgba(233,233,233,0.5);
+}
