@@ -6,12 +6,20 @@ Page({
     userInfo: '',
     head: '',
     nickName:'',
-    hasUserInfo: false
+    hasUserInfo: false,
+    show: 'none'
+  },
+  close(){
+    this.setData({
+      show: 'none'
+    })
+  },
+  bindtap(){
+    this.setData({
+      show: 'block'
+    })
   },
   onLoad(){
-
-    // console.log(app.globalData.userInfo)
-
     if (app.globalData.userInfo) {
       this.setData({
         userInfo: app.globalData.userInfo,

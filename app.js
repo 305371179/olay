@@ -47,7 +47,8 @@ App({
     userData: null,
     phoneData: {},
     wishId: '',
-    redeeminfo:null
+    redeeminfo:null,
+    isFirst: true,
   },
   showLoading(title){
     wx.showToast({

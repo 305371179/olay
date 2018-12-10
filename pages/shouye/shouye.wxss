@@ -224,4 +224,211 @@ swiper{
     transform: scale3d(1, 1, 1);
   }
 }
+/*过渡页的样式*/
+.guodu .bitmap1 {
+  position: absolute;
+  visibility: hidden;
+  width: 238rpx;
+  height: 34rpx;
+}
 
+g {
+  pointer-events: visiblePainted;
+}
+
+.guodu .bitmap2 {
+  position: absolute;
+  visibility: hidden;
+  width: 451rpx;
+  height: 75rpx;
+}
+
+.guodu .bitmap3 {
+  position: absolute;
+  visibility: hidden;
+  width: 452rpx;
+  height: 75rpx;
+}
+
+.guodu .bitmap4 {
+  position: absolute;
+  visibility: hidden;
+  width: 632rpx;
+  height: 75rpx;
+}
+
+.guodu .bitmap5 {
+  position: absolute;
+  visibility: hidden;
+  width: 214rpx;
+  height: 75rpx;
+}
+
+.guodu .bitmap6 {
+  position: absolute;
+  visibility: hidden;
+  width: 72rpx;
+  height: 72rpx;
+}
+
+.guodu .bitmap7 {
+  position: absolute;
+  visibility: hidden;
+  width: 50rpx;
+  height: 110rpx;
+}
+
+.guodu .bitmap8 {
+  position: absolute;
+  visibility: hidden;
+  width: 309rpx;
+  height: 480rpx;
+}
+
+.guodu .bitmap9 {
+  position: absolute;
+  visibility: hidden;
+  width: 136rpx;
+  height: 164rpx;
+}
+
+.guodu .bitmap10 {
+  position: absolute;
+  visibility: hidden;
+  width: 534rpx;
+  height: 184rpx;
+}
+
+.guodu .bitmap11 {
+  position: absolute;
+  visibility: hidden;
+  width: 750rpx;
+  height: 1212rpx;
+}
+
+#guodu {
+  position: absolute;
+  overflow: hidden;
+  width: 750rpx;
+  height: 1212rpx;
+  background: #ffffff;
+}
+
+.guodu ._id {
+  position: absolute;
+  visibility: inherit;
+}
+
+.guodu ._id1 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(126rpx, 972rpx, 0);
+  -webkit-transform: translate3d(126rpx, 972rpx, 0);
+}
+
+.guodu ._id2 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(42rpx, 117rpx, 0);
+  -webkit-transform: translate3d(42rpx, 117rpx, 0);
+}
+
+.guodu ._id3 {
+  position: absolute;
+  visibility: inherit;
+  left: 241rpx;
+  top: 125rpx;
+}
+
+.guodu ._id4 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(636rpx, 539rpx, 0);
+  -webkit-transform: translate3d(636rpx, 539rpx, 0);
+}
+
+.guodu ._id5 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(76rpx, 538rpx, 0);
+  -webkit-transform: translate3d(76rpx, 538rpx, 0);
+}
+
+.guodu ._id6 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(268rpx, 656rpx, 0);
+  -webkit-transform: translate3d(268rpx, 656rpx, 0);
+}
+
+.guodu ._id7 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(66rpx, 725rpx, 0);
+  -webkit-transform: translate3d(66rpx, 725rpx, 0);
+}
+
+.guodu ._id8 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(157rpx, 794rpx, 0);
+  -webkit-transform: translate3d(157rpx, 794rpx, 0);
+}
+
+.guodu ._id9 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(157rpx, 866rpx, 0);
+  -webkit-transform: translate3d(157rpx, 866rpx, 0);
+}
+
+.guodu ._id10 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(269rpx, 27rpx, 0);
+  -webkit-transform: translate3d(269rpx, 27rpx, 0);
+}
+
+.masks {
+  position: absolute;
+  left: 0rpx;
+  top: 0rpx;
+  width: 0rpx;
+  height: 0rpx;
+}
+
+@-webkit-keyframes ud1{
+  from,to{
+    -webkit-transform: translateY(-10rpx);
+  }
+  50%{
+    -webkit-transform: translateY(40rpx);
+  }
+}
+@-webkit-keyframes fadeIn{
+  from{
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+  }
+
+}
+.guodu ._id3{
+  -webkit-animation:ud1 1s infinite;
+}
+.guodu ._id6,.guodu ._id7,.guodu ._id8,.guodu ._id9{
+  opacity: 0;
+}
+.page1 .guodu ._id6{
+  -webkit-animation:fadeIn 1s 0.5s both;
+}
+.page1 .guodu ._id7{
+  -webkit-animation:fadeIn 1s 1s both;
+}
+.page1 .guodu ._id8{
+  -webkit-animation:fadeIn 1s 1.5s both;
+}
+.page1 .guodu ._id9{
+  -webkit-animation:fadeIn 1s 2s both;
+}

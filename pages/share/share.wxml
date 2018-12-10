@@ -1,33 +1,51 @@
 <view class="stage share" name="share" id="share">
-  <image class="bitmap21 _id" name="xinyuanbackground" src="{{baseUrl+'share/xinyuanbackground.png'}}"></image>
-  <image class="bitmap20 _id1" name="xinyuanBg" src="{{baseUrl+'share/xinyuanBg.png'}}"></image>
-  <image class="bitmap19 _id2" name="xinyuanText" src="{{baseUrl+'share/xinyuanText.png'}}"></image>
-  <image class="bitmap18 _id3" name="lvshen" src="{{baseUrl+'share/lvshen.png'}}"></image>
-  <image class="bitmap17 _id4" name="heart" src="{{baseUrl+'share/heart.png'}}"></image>
-  <!-- <image class="bitmap16 _id5" name="name" src="{{baseUrl+'share/name.png'}}"></image> -->
+   <image class="bitmap21 _id" name="xinyuanbackground" src="{{baseUrl+'share/xinyuanbackground.png'}}"></image>
+   <image class="bitmap20 _id1" name="xinyuanBg" src="{{baseUrl+'yuanwang/contentBg.png'}}"></image>
+  <view class="yuanwang">
+     <image class="bitmap8 _id17 text" name="contentText0" src="{{baseUrl+'yuanwang/contentText0.png'}}"></image>
+     <image class="bitmap22 _id3" name="contentText4" src="{{baseUrl+'yuanwang/contentText4.png'}}"></image>
+   </view>
+
+   <view class="yuanwang">
+     <image class="bitmap11 _id14" name="img0" src="{{baseUrl+'yuanwang/img0.png'}}"></image>
+     <image class="bitmap10 _id15" name="title0" src="{{baseUrl+'yuanwang/title0.png'}}"></image>
+   </view>
+   <view class="yuanwang">
+     <image class="bitmap11 _id14" name="img1" src="{{baseUrl+'yuanwang/img1.png'}}"></image>
+     <image class="bitmap10 _id15" name="title1" src="{{baseUrl+'yuanwang/title1.png'}}"></image>
+   </view>
+   <view class="yuanwang">
+     <image class="bitmap15 _id10" name="img2" src="{{baseUrl+'yuanwang/img2.png'}}"></image>
+     <image class="bitmap14 _id11" name="title2" src="{{baseUrl+'yuanwang/title2.png'}}"></image>
+   </view>
+   <view class="yuanwang">
+     <image class="bitmap18 _id7" name="img3" src="{{baseUrl+'yuanwang/img3.png'}}"></image>
+     <image class="bitmap21 _id4" name="title4" src="{{baseUrl+'yuanwang/title4.png'}}"></image>
+   </view>
+   <view class="yuanwang">
+     <image class="bitmap23 _id2" name="img4" src="{{baseUrl+'yuanwang/img4.png'}}"></image>
+     <image class="bitmap21 _id4" name="title4" src="{{baseUrl+'yuanwang/title4.png'}}"></image>
+   </view>
     <text class="_id5 name">
       {{nickName}}
     </text>
-
-  <image class="bitmap15 _id6" name="head" src="{{head}}"></image>
+  <image class="bitmap15 _id6 head" name="head" src="{{head}}"></image>
   <image class="bitmap14 _id7" name="xinyuan" src="{{baseUrl+'share/xinyuan.png'}}"></image>
   <image class="bitmap13 _id8" name="lvxing" src="{{baseUrl+'share/lvxing.png'}}"></image>
   <image class="bitmap12 _id9" name="wuzhe" src="{{baseUrl+'share/wuzhe.png'}}"></image>
   <image class="bitmap11 _id10" name="yiyuan" src="{{baseUrl+'share/yiyuan.png'}}"></image>
   <image class="bitmap10 _id11" name="shareBtn" src="{{baseUrl+'share/shareBtn.png'}}"></image>
-  <image class="bitmap9 _id12" name="chuandi" src="{{baseUrl+'share/chuandi.png'}}"></image>
+  <image class="bitmap9 _id12" name="chuandi" src="{{baseUrl+'share/chuandi.png'}}" bindtap="bindtap"></image>
   <text class="bitmap8 _id13 lvxingText">助力300次</text>
   <text class="bitmap8 _id13 wuzheText">助力300次</text>
   <text class="bitmap8 _id13 yiyuanText">助力300次</text>
-  <!--<image class="bitmap8 _id13" name="countText" src="{{baseUrl+'share/countText.png'}}"></image>-->
   <image class="bitmap7 _id14" name="saoguang3" src="{{baseUrl+'share/saoguang3.png'}}"></image>
   <image class="bitmap6 _id15" name="saoguang2" src="{{baseUrl+'share/saoguang2.png'}}"></image>
   <image class="bitmap5 _id16" name="saoguang1" src="{{baseUrl+'share/saoguang1.png'}}"></image>
   <image class="bitmap4 _id17" name="saoguang0" src="{{baseUrl+'share/saoguang0.png'}}"></image>
   <image class="bitmap3 _id18" name="logo" src="{{baseUrl+'share/logo.png'}}"></image>
-  <view class="shareContain">
+  <view class="shareContain" style="{{'display:'+show}}" bindtap="close">
     <image class="bitmap2 _id19" name="shareBg" src="{{baseUrl+'share/shareBg.png'}}"></image>
     <image class="bitmap1 _id20" name="share" src="{{baseUrl+'share/share.png'}}"></image>
   </view>
-
 </view>

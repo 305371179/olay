@@ -1,4 +1,4 @@
-.bitmap1 {
+.guodu .bitmap1 {
   position: absolute;
   visibility: hidden;
   width: 238rpx;
@@ -9,70 +9,70 @@ g {
   pointer-events: visiblePainted;
 }
 
-.bitmap2 {
+.guodu .bitmap2 {
   position: absolute;
   visibility: hidden;
   width: 451rpx;
   height: 75rpx;
 }
 
-.bitmap3 {
+.guodu .bitmap3 {
   position: absolute;
   visibility: hidden;
   width: 452rpx;
   height: 75rpx;
 }
 
-.bitmap4 {
+.guodu .bitmap4 {
   position: absolute;
   visibility: hidden;
   width: 632rpx;
   height: 75rpx;
 }
 
-.bitmap5 {
+.guodu .bitmap5 {
   position: absolute;
   visibility: hidden;
   width: 214rpx;
   height: 75rpx;
 }
 
-.bitmap6 {
+.guodu .bitmap6 {
   position: absolute;
   visibility: hidden;
   width: 72rpx;
   height: 72rpx;
 }
 
-.bitmap7 {
+.guodu .bitmap7 {
   position: absolute;
   visibility: hidden;
   width: 50rpx;
   height: 110rpx;
 }
 
-.bitmap8 {
+.guodu .bitmap8 {
   position: absolute;
   visibility: hidden;
   width: 309rpx;
   height: 480rpx;
 }
 
-.bitmap9 {
+.guodu .bitmap9 {
   position: absolute;
   visibility: hidden;
   width: 136rpx;
   height: 164rpx;
 }
 
-.bitmap10 {
+.guodu .bitmap10 {
   position: absolute;
   visibility: hidden;
   width: 534rpx;
   height: 184rpx;
 }
 
-.bitmap11 {
+.guodu .bitmap11 {
   position: absolute;
   visibility: hidden;
   width: 750rpx;

@@ -358,3 +358,285 @@ g {
   top:1640rpx;
   pointer-events: none;
 }
+/*content*/
+.yuanwang .bitmap8 {
+  position: absolute;
+  visibility: hidden;
+  width: 181rpx;
+  height: 297rpx;
+}
+
+.yuanwang .bitmap9 {
+  position: absolute;
+  visibility: hidden;
+  width: 625rpx;
+  height: 963rpx;
+}
+
+.yuanwang .bitmap10 {
+  position: absolute;
+  visibility: hidden;
+  width: 44rpx;
+  height: 187rpx;
+}
+
+.yuanwang .bitmap11 {
+  position: absolute;
+  visibility: hidden;
+  width: 139rpx;
+  height: 166rpx;
+}
+.yuanwang .bitmap12 {
+  position: absolute;
+  visibility: hidden;
+  width: 146rpx;
+  height: 434rpx;
+}
+
+.yuanwang .bitmap13 {
+  position: absolute;
+  visibility: hidden;
+  width: 625rpx;
+  height: 963rpx;
+}
+
+.yuanwang .bitmap14 {
+  position: absolute;
+  visibility: hidden;
+  width: 76rpx;
+  height: 157rpx;
+}
+
+.yuanwang .bitmap15 {
+  position: absolute;
+  visibility: hidden;
+  width: 161rpx;
+  height: 191rpx;
+}
+
+.yuanwang .bitmap16 {
+  position: absolute;
+  visibility: hidden;
+  width: 146rpx;
+  height: 450rpx;
+}
+
+.yuanwang .bitmap17 {
+  position: absolute;
+  visibility: hidden;
+  width: 625rpx;
+  height: 963rpx;
+}
+
+.yuanwang .bitmap18 {
+  position: absolute;
+  visibility: hidden;
+  width: 172rpx;
+  height: 149rpx;
+}
+
+.yuanwang .bitmap19 {
+  position: absolute;
+  visibility: hidden;
+  width: 201rpx;
+  height: 468rpx;
+}
+
+.yuanwang .bitmap20 {
+  position: absolute;
+  visibility: hidden;
+  width: 625rpx;
+  height: 1017rpx;
+}
+
+.yuanwang .bitmap21 {
+  position: absolute;
+  visibility: hidden;
+  width: 41rpx;
+  height: 186rpx;
+}
+
+.yuanwang .bitmap22 {
+  position: absolute;
+  visibility: hidden;
+  width: 393rpx;
+  height: 244rpx;
+}
+
+.yuanwang .bitmap23 {
+  position: absolute;
+  visibility: hidden;
+  width: 146rpx;
+  height: 155rpx;
+}
+.yuanwang ._id1 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(67rpx, 204rpx, 0);
+  -webkit-transform: translate3d(67rpx, 204rpx, 0);
+}
+
+.yuanwang ._id2 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(458rpx, 812rpx, 0);
+  -webkit-transform: translate3d(458rpx, 812rpx, 0);
+}
+
+.yuanwang ._id3 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(211rpx, 483rpx, 0);
+  -webkit-transform: translate3d(211rpx, 483rpx, 0);
+}
+
+.yuanwang ._id4 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(359rpx, 150rpx, 0);
+  -webkit-transform: translate3d(359rpx, 150rpx, 0);
+}
+
+.yuanwang ._id5 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(67rpx, 150rpx, 0);
+  -webkit-transform: translate3d(67rpx, 150rpx, 0);
+}
+
+.yuanwang ._id6 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(276rpx, 432rpx, 0);
+  -webkit-transform: translate3d(276rpx, 432rpx, 0);
+}
+
+.yuanwang ._id7 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(146rpx, 809rpx, 0);
+  -webkit-transform: translate3d(146rpx, 809rpx, 0);
+}
+
+.yuanwang ._id8 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(67rpx, 204rpx, 0);
+  -webkit-transform: translate3d(67rpx, 204rpx, 0);
+}
+
+.yuanwang ._id9 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(301rpx, 396rpx, 0);
+  -webkit-transform: translate3d(301rpx, 396rpx, 0);
+}
+
+.yuanwang ._id10 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(154rpx, 768rpx, 0);
+  -webkit-transform: translate3d(154rpx, 768rpx, 0);
+}
+
+.yuanwang ._id11 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(345rpx, 154rpx, 0);
+  -webkit-transform: translate3d(345rpx, 154rpx, 0);
+}
+
+.yuanwang ._id12 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(67rpx, 204rpx, 0);
+  -webkit-transform: translate3d(67rpx, 204rpx, 0);
+}
+
+.yuanwang ._id13 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(308rpx, 452rpx, 0);
+  -webkit-transform: translate3d(308rpx, 452rpx, 0);
+}
+
+.yuanwang ._id14 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(466rpx, 797rpx, 0);
+  -webkit-transform: translate3d(466rpx, 797rpx, 0);
+}
+
+.yuanwang ._id15 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(361rpx, 152rpx, 0);
+  -webkit-transform: translate3d(361rpx, 152rpx, 0);
+}
+
+.yuanwang ._id16 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(67rpx, 204rpx, 0);
+  -webkit-transform: translate3d(67rpx, 204rpx, 0);
+}
+
+.yuanwang ._id17{
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(289rpx, 447rpx, 0);
+  -webkit-transform: translate3d(289rpx, 447rpx, 0);
+}
+
+.yuanwang ._id18 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(349rpx, 158rpx, 0);
+  -webkit-transform: translate3d(349rpx, 158rpx, 0);
+}
+
+.yuanwang ._id19 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(400rpx, 784rpx, 0);
+  -webkit-transform: translate3d(400rpx, 784rpx, 0);
+}
+
+.yuanwang ._id20 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(252rpx, 1011rpx, 0);
+  -webkit-transform: translate3d(252rpx, 1011rpx, 0);
+}
+
+.yuanwang ._id21 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(713rpx, 583rpx, 0);
+  -webkit-transform: translate3d(713rpx, 583rpx, 0);
+}
+
+.yuanwang ._id22 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(14rpx, 583rpx, 0);
+  -webkit-transform: translate3d(14rpx, 583rpx, 0);
+}
+
+.yuanwang ._id23 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(211rpx, 79rpx, 0);
+  -webkit-transform: translate3d(211rpx, 79rpx, 0);
+}
+
+.yuanwang ._id24 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(269rpx, 27rpx, 0);
+  -webkit-transform: translate3d(269rpx, 27rpx, 0);
+}
+.name,.head{
+  z-index: 1;
+  visibility: visible;
+}

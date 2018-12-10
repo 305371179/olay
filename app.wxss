@@ -10,4 +10,12 @@ page{
   justify-content: space-between;
   padding: 0;
   box-sizing: border-box;
-} 
+}
+
+swiper,swiper-item{
+  height:100%;
+  width:100%;
+  position:absolute;
+  left:0;
+  top:0;
+}

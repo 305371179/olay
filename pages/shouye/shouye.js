@@ -7,5 +7,11 @@ Page({
   },
   bindchange(target){
     this.setData({current:target.detail.current})
+  },
+  //过渡页跳转
+  bindtap(){
+    wx.navigateTo({
+      url: '../yuanwang/yuanwang'
+    })
   }
 })

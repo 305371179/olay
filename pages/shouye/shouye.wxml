@@ -15,16 +15,18 @@
       </view>
     </swiper-item>
     <swiper-item>
-      <view class="stage shouye" name="shouye" id="shouye">
-        <image class="bitmap8 _id" name="bg" src="{{baseUrl+'shouye/bg.png'}}"></image>
-        <image class="bitmap7 _id1" name="center" src="{{baseUrl+'shouye/center.png'}}"></image>
-        <image class="bitmap6 _id2" name="circle" src="{{baseUrl+'shouye/circle.png'}}"></image>
-        <image class="bitmap5 _id3" name="ruleBtn" src="{{baseUrl+'shouye/ruleBtn.png'}}"></image>
-        <image class="bitmap4 _id4" name="arrow" src="{{baseUrl+'shouye/arrow.png'}}"></image>
-        <image class="bitmap3 _id5" name="product" src="{{baseUrl+'shouye/product.png'}}"></image>
-        <image class="bitmap2 _id6" name="title" src="{{baseUrl+'shouye/title.png'}}"></image>
-        <image class="bitmap1 _id7" name="logo" src="{{baseUrl+'shouye/logo.png'}}"></image>
-        <!--<view class="text-container"><text style="position:relative;left:18rpx;" decode="{{true}}" space="{{true}}">新年新肌&nbsp;开启心愿</text></view>-->
+      <view class="stage guodu" name="guodu" id="guodu">
+        <image class="bitmap11 _id" name="bg" src="{{baseUrl+'guodu/bg.png'}}"></image>
+        <image class="bitmap10 _id1" bindtap="bindtap" name="wish" src="{{baseUrl+'guodu/wish.png'}}"></image>
+        <image class="bitmap9 _id2" name="qiu" src="{{baseUrl+'guodu/qiu.png'}}"></image>
+        <image class="bitmap8 _id3" name="dai" src="{{baseUrl+'guodu/dai.png'}}"></image>
+        <image class="bitmap7 _id4" name="star1" src="{{baseUrl+'guodu/star1.png'}}"></image>
+        <image class="bitmap6 _id5" name="star" src="{{baseUrl+'guodu/star.png'}}"></image>
+        <image class="bitmap5 _id6" name="text0" src="{{baseUrl+'guodu/text0.png'}}"></image>
+        <image class="bitmap4 _id7" name="text1" src="{{baseUrl+'guodu/text1.png'}}"></image>
+        <image class="bitmap3 _id8" name="text2" src="{{baseUrl+'guodu/text2.png'}}"></image>
+        <image class="bitmap2 _id9" name="text3" src="{{baseUrl+'guodu/text3.png'}}"></image>
+        <image class="bitmap1 _id10" name="logo" src="{{baseUrl+'guodu/logo.png'}}"></image>
       </view>
     </swiper-item>
 </swiper>

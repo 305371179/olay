@@ -365,3 +365,7 @@ g {
   width: 0rpx;
   height: 0rpx;
 }
+.title3{
+  width:41rpx;
+  height:186rpx;
+}
