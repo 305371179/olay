@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2069df29-a481-47c4-b9b6-827c20b6e9d0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/progress-bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/progress-star-gold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/progress-star-silver.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/friendIn/friendIn.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/friendIn/friendIn.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/friendIn/friendIn.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/friendIn/friendIn.wxml" afterDir="false" />
@@ -24,8 +27,8 @@
           <file leaf-file-name="app.json" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+                <state relative-caret-position="150">
+                  <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
                 </state>
               </provider>
             </entry>
@@ -33,13 +36,45 @@
           <file leaf-file-name="friendIn.wxml" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/pages/friendIn/friendIn.wxml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="67" column="35" lean-forward="true" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+                <state relative-caret-position="313">
+                  <caret line="78" column="65" selection-start-line="78" selection-start-column="65" selection-end-line="78" selection-end-column="65" />
                   <folding>
                     <element signature="n#style#0;n#view#0;n#view#0;n#view#6;n#view#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#image#0;n#view#7;n#view#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#image#7;n#view#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="progress-star-gold.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/res/friendIn/progress-star-gold.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file leaf-file-name="progress-star-silver.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/res/friendIn/progress-star-silver.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file leaf-file-name="star30.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/res/friendIn/star30.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file leaf-file-name="star15.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/res/friendIn/star15.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file leaf-file-name="process.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/res/friendIn/process.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file leaf-file-name="processBg.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/res/friendIn/processBg.png">
+              <provider selected="true" editor-type-id="images" />
             </entry>
           </file>
           <file leaf-file-name="yuanwang.wxml" pinned="false" current-in-tab="false">
@@ -74,11 +109,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="friendIn.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="friendIn.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/pages/friendIn/friendIn.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="352">
-                  <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+                <state relative-caret-position="1320">
+                  <caret line="88" column="12" selection-start-line="88" selection-start-column="12" selection-end-line="88" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -97,13 +132,26 @@
               <provider selected="true" editor-type-id="images" />
             </entry>
           </file>
-          <file leaf-file-name="friendIn.wxss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="friendIn.wxss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pages/friendIn/friendIn.wxss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="404">
-                  <caret line="1138" column="18" selection-start-line="1138" selection-start-column="18" selection-end-line="1138" selection-end-column="18" />
+                <state relative-caret-position="145">
+                  <caret line="1154" column="16" lean-forward="true" selection-start-line="1154" selection-start-column="16" selection-end-line="1154" selection-end-column="16" />
+                  <folding>
+                    <element signature="e#20922#28655#2" expanded="true" />
+                  </folding>
                 </state>
               </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="progress-bar.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/res/friendIn/progress-bar.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file leaf-file-name="zanfirst.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/res/friendIn/zanfirst.png">
+              <provider selected="true" editor-type-id="images" />
             </entry>
           </file>
           <file leaf-file-name="share.js" pinned="false" current-in-tab="false">
@@ -146,6 +194,8 @@
       <find>name</find>
       <find>head</find>
       <find>nick</find>
+      <find>bind</find>
+      <find>style</find>
       <find>19</find>
     </findStrings>
     <replaceStrings>
@@ -192,9 +242,9 @@
         <option value="$PROJECT_DIR$/pages/share/share.js" />
         <option value="$PROJECT_DIR$/pages/yuanwang/yuanwang.wxml" />
         <option value="$PROJECT_DIR$/pages/share/share.wxml" />
-        <option value="$PROJECT_DIR$/pages/friendIn/friendIn.wxml" />
-        <option value="$PROJECT_DIR$/pages/friendIn/friendIn.js" />
         <option value="$PROJECT_DIR$/pages/friendIn/friendIn.wxss" />
+        <option value="$PROJECT_DIR$/pages/friendIn/friendIn.js" />
+        <option value="$PROJECT_DIR$/pages/friendIn/friendIn.wxml" />
       </list>
     </option>
   </component>
@@ -286,7 +336,7 @@
               <item name="Olay" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="yuanwang" type="462c0819:PsiDirectoryNode" />
+              <item name="friendIn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
@@ -327,6 +377,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/res/friendIn" />
       <recent name="$PROJECT_DIR$/pages/res/yuanwang" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/pages" />
@@ -434,13 +485,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62183000" />
+    <option name="totallyTimeSpent" value="66940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -448,7 +499,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32923076" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -504,42 +555,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="share" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/res/shouye/bg.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/res/shouye/Bitmap 1.png" />
-    <entry file="file://$PROJECT_DIR$/pages/page/page.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/page/page.wxss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index/index.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" selection-start-line="1" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/register.json" />
-    <entry file="file://$PROJECT_DIR$/pages/register/register.wxss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="157" selection-start-line="157" selection-end-line="157" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/register/register.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/register/register.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -669,13 +684,6 @@
     <entry file="file://$PROJECT_DIR$/pages/res/friendIn/dianliang30.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/res/friendIn/zhuli.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -754,27 +762,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/friendIn/friendIn.wxml">
+    <entry file="file://$PROJECT_DIR$/pages/res/friendIn/processBg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/res/friendIn/process.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/res/friendIn/star15.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/res/friendIn/star30.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="67" column="35" lean-forward="true" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/res/friendIn/zanfirst.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/res/friendIn/progress-star-gold.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/res/friendIn/progress-star-silver.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/res/friendIn/progress-bar.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/friendIn/friendIn.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="1154" column="16" lean-forward="true" selection-start-line="1154" selection-start-column="16" selection-end-line="1154" selection-end-column="16" />
           <folding>
-            <element signature="n#style#0;n#view#0;n#view#0;n#view#6;n#view#0;n#!!top" expanded="true" />
+            <element signature="e#20922#28655#2" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/friendIn/friendIn.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+        <state relative-caret-position="1320">
+          <caret line="88" column="12" selection-start-line="88" selection-start-column="12" selection-end-line="88" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/friendIn/friendIn.wxss">
+    <entry file="file://$PROJECT_DIR$/pages/friendIn/friendIn.wxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="1138" column="18" selection-start-line="1138" selection-start-column="18" selection-end-line="1138" selection-end-column="18" />
+        <state relative-caret-position="313">
+          <caret line="78" column="65" selection-start-line="78" selection-start-column="65" selection-end-line="78" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#view#0;n#view#0;n#view#6;n#view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#0;n#view#7;n#view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#image#7;n#view#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
