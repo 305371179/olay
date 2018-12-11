@@ -16,6 +16,7 @@ Page({
     lvxingText:16,
     wuzheText:16,
     yiyuanText:16,
+    zans:[]
   },
   setFontSize(){
     const length = this.data.value.length
@@ -45,6 +46,16 @@ Page({
       })
     }
     this.setFontSize()
+    this.setZans()
+  },
+  setZans(){
+    let zans = []
+    for (let i = 0; i < 40; i++) {
+      zans.push(i)
+    }
+    this.setData({
+      zans: zans
+    })
   },
   close(){
     this.setData({
