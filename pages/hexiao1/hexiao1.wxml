@@ -1,0 +1,55 @@
+<view class="stage hexiao1" name="hexiao1" id="hexiao1">
+  <image class="bitmap21 _id" name="background" src="{{baseUrl+'hexiao1/background.png'}}"></image>
+  <image class="bitmap20 _id1" name="maTip" src="{{baseUrl+'hexiao1/maTip.png'}}"></image>
+  <image class="bitmap19 _id2" bindtap="hexiao" name="hexiaoBtn" src="{{baseUrl+'hexiao1/hexiaoBtn.png'}}"></image>
+
+  <image class="bitmap18 _id3" name="input0" src="{{baseUrl+'hexiao1/input0.png'}}"></image>
+  <image class="bitmap17 _id4" name="input1" src="{{baseUrl+'hexiao1/input1.png'}}"></image>
+  <image class="bitmap16 _id5" name="input2" src="{{baseUrl+'hexiao1/input2.png'}}"></image>
+  <image class="bitmap15 _id6" name="input3" src="{{baseUrl+'hexiao1/input3.png'}}"></image>
+  <text class="bitmap18 _id3 singleMa" name="input0">{{1}}</text>
+  <text class="bitmap17 _id4 singleMa" name="input1" >{{1}}</text>
+  <text class="bitmap16 _id5 singleMa" name="input2" >{{1}}</text>
+  <text class="bitmap15 _id6 singleMa" name="input3">{{1}}</text>
+
+
+
+
+
+  <image class="bitmap14 _id7" name="logo" src="{{baseUrl+'hexiao1/logo.png'}}"></image>
+
+
+
+
+
+  <view class="popContain" wx:if="{{show}}">
+    <!--<image class="bitmap13 _id8" name="zhezhao" src="{{baseUrl+'hexiao1/zhezhao.png'}}"></image>-->
+    <image class="bitmap12 _id9" name="selectContentBg" src="{{baseUrl+'hexiao1/selectContentBg.png'}}"></image>
+    <!--、style="{{'background-image:url('+baseUrl+'hexiao1/selectDown.png)'}}"-->
+    <view class="bitmap11 _id10 select" name="selectDown" wx:if="{{selectShow}}">
+      <text class="text title">该省份有以下门店可供兑换</text>
+      <text bindtap="selectItem" data-item="{{item}}" class="text item" wx:for="{{data}}" wx:key="{{index}}">{{item}}</text>
+    </view>
+  <!--  <image class="bitmap11 _id10" name="selectDown" src="{{baseUrl+'hexiao1/selectDown.png'}}"></image>-->
+    <image class="bitmap10 _id11" name="province" src="{{baseUrl+'hexiao1/province.png'}}"></image>
+    <input value="{{province}}" class="bitmap9 _id12 selectInput" name="selectInput" style="{{'background-image:url('+baseUrl+'hexiao1/selectInput.png)'}}"/>
+    <view  readonly="true" class="bitmap9 _id12 selectInput input1" name="selectInput" style="{{'background-image:url('+baseUrl+'hexiao1/selectInput.png)'}}" bindtap="select"/>
+    <image class="bitmap8 _id13" name="prizeInfo" src="{{baseUrl+'hexiao1/prizeInfo.png'}}"></image>
+
+    <text class="bitmap7 _id14 prizeName" name="prizeName" >{{prizeName}}</text>
+<!--    <image class="bitmap7 _id14" name="prizeName" src="{{baseUrl+'hexiao1/prizeName.png'}}"></image>-->
+
+  <!--  <image class="bitmap6 _id15" name="num" src="{{baseUrl+'hexiao1/num.png'}}"></image>-->
+    <text class="bitmap6 _id15 num" name="num" src="{{baseUrl+'hexiao1/num.png'}}">{{num}}</text>
+
+
+    <image class="bitmap5 _id16" name="duihuanBtn" bindtap="duihuan" src="{{baseUrl+'hexiao1/duihuanBtn.png'}}"></image>
+    <image class="bitmap4 _id17" name="logo1" src="{{baseUrl+'hexiao1/logo1.png'}}"></image>
+    <image class="bitmap3 _id18" name="tip" src="{{baseUrl+'hexiao1/tip.png'}}"></image>
+    <image class="bitmap2 _id19" name="hexiaomaTip" src="{{baseUrl+'hexiao1/hexiaomaTip.png'}}"></image>
+
+    <text class="bitmap1 _id20 hexiaoma" name="maNum" src="{{baseUrl+'hexiao1/maNum.png'}}">{{hexiaoma}}</text>
+
+  </view>
+
+</view>

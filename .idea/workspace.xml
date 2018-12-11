@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2069df29-a481-47c4-b9b6-827c20b6e9d0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/me/me.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/me/me.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/me/me.wxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/me/me.wxss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/xuxiaxinyuanBtn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/friendIn/xuxiaxinyuanText.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/res/xuxiaxinyuanText.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/friendIn/friendIn.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/friendIn/friendIn.wxml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,16 +22,16 @@
             <entry file="file://$PROJECT_DIR$/pages/me/me.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="258">
-                  <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+                  <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="me.wxml" pinned="false" current-in-tab="true">
+          <file leaf-file-name="me.wxml" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pages/me/me.wxml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+                <state relative-caret-position="195">
+                  <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
                   <folding>
                     <element signature="n#style#0;n#view#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#view#0;n#view#0;n#!!top" expanded="true" />
@@ -52,6 +43,19 @@
                     <element signature="n#style#0;n#image#11;n#view#9;n#view#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#image#11;n#view#9;n#view#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#image#11;n#view#9;n#view#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="hexiao1.wxml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pages/hexiao1/hexiao1.wxml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+                  <folding>
+                    <element signature="n#style#0;n#input#0;n#view#0;n#view#0;n#!!top" expanded="true" />
+                    <element signature="n#style#1;n#view#0;n#view#0;n#view#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -87,17 +91,35 @@
           <file leaf-file-name="me.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pages/me/me.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="408">
-                  <caret line="82" column="14" lean-forward="true" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
+                <state relative-caret-position="210">
+                  <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="me.wxss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="hexiao1.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pages/hexiao1/hexiao1.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="375">
+                  <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="hexiao1.wxss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/hexiao1/hexiao1.wxss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="55">
+                  <caret line="320" column="1" lean-forward="true" selection-start-line="320" selection-start-column="1" selection-end-line="320" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="me.wxss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pages/me/me.wxss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="430">
-                  <caret line="1426" column="14" lean-forward="true" selection-start-line="1426" selection-start-column="14" selection-end-line="1426" selection-end-column="14" />
+                <state relative-caret-position="505">
+                  <caret line="1431" column="12" selection-start-line="1431" selection-start-column="12" selection-end-line="1431" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -120,7 +142,7 @@
             <entry file="file://$PROJECT_DIR$/pages/share/share.wxss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="11">
-                  <caret line="314" column="1" lean-forward="true" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
+                  <caret line="314" column="1" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -129,7 +151,7 @@
             <entry file="file://$PROJECT_DIR$/pages/share/share.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="225">
-                  <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="17" selection-end-column="18" />
+                  <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="17" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
@@ -151,7 +173,6 @@
       <find>swip</find>
       <find>title2</find>
       <find>nickname</find>
-      <find>bitmap9</find>
       <find>backgrou</find>
       <find>===</find>
       <find>red</find>
@@ -177,6 +198,7 @@
       <find>text</find>
       <find>lvxin</find>
       <find>.share</find>
+      <find>bitmap9</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -225,9 +247,12 @@
         <option value="$PROJECT_DIR$/pages/friendIn/friendIn.js" />
         <option value="$PROJECT_DIR$/pages/friendIn/friendIn.wxml" />
         <option value="$PROJECT_DIR$/app.json" />
-        <option value="$PROJECT_DIR$/pages/me/me.js" />
         <option value="$PROJECT_DIR$/pages/me/me.wxml" />
         <option value="$PROJECT_DIR$/pages/me/me.wxss" />
+        <option value="$PROJECT_DIR$/pages/me/me.js" />
+        <option value="$PROJECT_DIR$/pages/hexiao1/hexiao1.wxss" />
+        <option value="$PROJECT_DIR$/pages/hexiao1/hexiao1.js" />
+        <option value="$PROJECT_DIR$/pages/hexiao1/hexiao1.wxml" />
       </list>
     </option>
   </component>
@@ -288,6 +313,12 @@
               <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
               <item name="Olay" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="hexiao1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Olay" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="index" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -325,26 +356,6 @@
               <item name="Olay" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="register" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Olay" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Olay" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="friendIn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Olay" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="meIn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Olay" type="b2602c69:ProjectViewProjectNode" />
@@ -504,13 +515,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77370000" />
+    <option name="totallyTimeSpent" value="81315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -518,7 +529,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32923076" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -575,19 +586,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="friendIn" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/res/friendIn/zhuli.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/res/friendIn/ma.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/yuanwang/yuanwang.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="65" column="9" selection-start-line="63" selection-start-column="2" selection-end-line="79" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/res/friendIn/popBg.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -758,14 +756,14 @@
     <entry file="file://$PROJECT_DIR$/pages/share/share.wxss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11">
-          <caret line="314" column="1" lean-forward="true" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
+          <caret line="314" column="1" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/share/share.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="17" selection-end-column="18" />
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -790,17 +788,17 @@
     <entry file="file://$PROJECT_DIR$/pages/res/friendIn/xuxiaxinyuan.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/me/me.js">
+    <entry file="file://$PROJECT_DIR$/pages/me/me.wxss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="82" column="14" lean-forward="true" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
+        <state relative-caret-position="505">
+          <caret line="1431" column="12" selection-start-line="1431" selection-start-column="12" selection-end-line="1431" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/me/me.wxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        <state relative-caret-position="195">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
           <folding>
             <element signature="n#style#0;n#view#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#view#0;n#view#0;n#!!top" expanded="true" />
@@ -816,10 +814,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/me/me.wxss">
+    <entry file="file://$PROJECT_DIR$/pages/me/me.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="1426" column="14" lean-forward="true" selection-start-line="1426" selection-start-column="14" selection-end-line="1426" selection-end-column="14" />
+        <state relative-caret-position="258">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/hexiao1/hexiao1.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="320" column="1" lean-forward="true" selection-start-line="320" selection-start-column="1" selection-end-line="320" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/hexiao1/hexiao1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/hexiao1/hexiao1.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#view#0;n#view#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#view#0;n#view#0;n#view#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

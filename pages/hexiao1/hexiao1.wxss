@@ -1,0 +1,366 @@
+.bitmap1 {
+  position: absolute;
+  visibility: hidden;
+  width: 64rpx;
+  height: 21rpx;
+}
+
+g {
+  pointer-events: visiblePainted;
+}
+
+.bitmap2 {
+  position: absolute;
+  visibility: hidden;
+  width: 83rpx;
+  height: 26rpx;
+}
+
+.bitmap3 {
+  position: absolute;
+  visibility: hidden;
+  width: 394rpx;
+  height: 17rpx;
+}
+
+.bitmap4 {
+  position: absolute;
+  visibility: hidden;
+  width: 238rpx;
+  height: 34rpx;
+}
+
+.bitmap5 {
+  position: absolute;
+  visibility: hidden;
+  width: 304rpx;
+  height: 59rpx;
+}
+
+.bitmap6 {
+  position: absolute;
+  visibility: hidden;
+  width: 31rpx;
+  height: 18rpx;
+}
+
+.bitmap7 {
+  position: absolute;
+  visibility: hidden;
+  width: 211rpx;
+  height: 18rpx;
+}
+
+.bitmap8 {
+  position: absolute;
+  visibility: hidden;
+  width: 322rpx;
+  height: 61rpx;
+}
+
+.bitmap9 {
+  position: absolute;
+  visibility: hidden;
+  width: 274rpx;
+  height: 36rpx;
+}
+
+.bitmap10 {
+  position: absolute;
+  visibility: hidden;
+  width: 27rpx;
+  height: 26rpx;
+}
+
+.bitmap11 {
+  position: absolute;
+  visibility: hidden;
+  width: 257rpx;
+  height: 252rpx;
+}
+
+.bitmap12 {
+  position: absolute;
+  visibility: hidden;
+  width: 626rpx;
+  height: 1013rpx;
+}
+
+.bitmap13 {
+  position: absolute;
+  visibility: hidden;
+  width: 750rpx;
+  height: 1212rpx;
+}
+
+.bitmap14 {
+  position: absolute;
+  visibility: hidden;
+  width: 238rpx;
+  height: 34rpx;
+}
+
+.bitmap15 {
+  position: absolute;
+  visibility: hidden;
+  width: 99rpx;
+  height: 20rpx;
+}
+
+.bitmap16 {
+  position: absolute;
+  visibility: hidden;
+  width: 99rpx;
+  height: 20rpx;
+}
+
+.bitmap17 {
+  position: absolute;
+  visibility: hidden;
+  width: 99rpx;
+  height: 20rpx;
+}
+
+.bitmap18 {
+  position: absolute;
+  visibility: hidden;
+  width: 99rpx;
+  height: 20rpx;
+}
+
+.bitmap19 {
+  position: absolute;
+  visibility: hidden;
+  width: 304rpx;
+  height: 59rpx;
+}
+
+.bitmap20 {
+  position: absolute;
+  visibility: hidden;
+  width: 394rpx;
+  height: 17rpx;
+}
+
+.bitmap21 {
+  position: absolute;
+  visibility: hidden;
+  width: 750rpx;
+  height: 1212rpx;
+}
+
+#hexiao1 {
+  position: absolute;
+  overflow: hidden;
+  width: 750rpx;
+  height: 1212rpx;
+  background: #ffffff;
+}
+
+.hexiao1 ._id {
+  position: absolute;
+  visibility: inherit;
+}
+
+.hexiao1 ._id1 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(182rpx, 646rpx, 0);
+  -webkit-transform: translate3d(182rpx, 646rpx, 0);
+}
+
+.hexiao1 ._id2 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(239rpx, 780rpx, 0);
+  -webkit-transform: translate3d(239rpx, 780rpx, 0);
+}
+
+.hexiao1 ._id3 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(125rpx, 609rpx, 0);
+  -webkit-transform: translate3d(125rpx, 609rpx, 0);
+}
+
+.hexiao1 ._id4 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(267rpx, 609rpx, 0);
+  -webkit-transform: translate3d(267rpx, 609rpx, 0);
+}
+
+.hexiao1 ._id5 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(409rpx, 609rpx, 0);
+  -webkit-transform: translate3d(409rpx, 609rpx, 0);
+}
+
+.hexiao1 ._id6 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(551rpx, 609rpx, 0);
+  -webkit-transform: translate3d(551rpx, 609rpx, 0);
+}
+
+.hexiao1 ._id7 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(269rpx, 27rpx, 0);
+  -webkit-transform: translate3d(269rpx, 27rpx, 0);
+}
+
+.hexiao1 ._id8 {
+  position: absolute;
+  visibility: inherit;
+}
+
+.hexiao1 ._id9 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(62rpx, 100rpx, 0);
+  -webkit-transform: translate3d(62rpx, 100rpx, 0);
+}
+
+.hexiao1 ._id10 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(227rpx, 429rpx, 0);
+  -webkit-transform: translate3d(227rpx, 429rpx, 0);
+}
+
+.hexiao1 ._id11 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(515rpx, 404rpx, 0);
+  -webkit-transform: translate3d(515rpx, 404rpx, 0);
+}
+
+.hexiao1 ._id12 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(218rpx, 399rpx, 0);
+  -webkit-transform: translate3d(218rpx, 399rpx, 0);
+}
+
+.hexiao1 ._id13 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(215rpx, 225rpx, 0);
+  -webkit-transform: translate3d(215rpx, 225rpx, 0);
+}
+
+.hexiao1 ._id14 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(182rpx, 338rpx, 0);
+  -webkit-transform: translate3d(182rpx, 338rpx, 0);
+}
+
+.hexiao1 ._id15 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(549rpx, 339rpx, 0);
+  -webkit-transform: translate3d(549rpx, 339rpx, 0);
+}
+
+.hexiao1 ._id16 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(242rpx, 902rpx, 0);
+  -webkit-transform: translate3d(242rpx, 902rpx, 0);
+}
+
+.hexiao1 ._id17 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(262rpx, 158rpx, 0);
+  -webkit-transform: translate3d(262rpx, 158rpx, 0);
+}
+
+.hexiao1 ._id18 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(176rpx, 794rpx, 0);
+  -webkit-transform: translate3d(176rpx, 794rpx, 0);
+}
+
+.hexiao1 ._id19 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(282rpx, 738rpx, 0);
+  -webkit-transform: translate3d(282rpx, 738rpx, 0);
+}
+
+.hexiao1 ._id20 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(395rpx, 743rpx, 0);
+  -webkit-transform: translate3d(395rpx, 743rpx, 0);
+}
+
+.masks {
+  position: absolute;
+  left: 0rpx;
+  top: 0rpx;
+  width: 0rpx;
+  height: 0rpx;
+}
+.popContain{
+  background: rgba(0,0,0,0.7);
+}
+.prizeName,.num{
+  font-size: 20rpx;
+  color:#222;
+  top:-4rpx;
+  width:300rpx;
+}
+.num{
+  width:100rpx!important;
+}
+.selectInput{
+  pointer-events: none;
+  top:-8rpx;
+  background-size: 274rpx auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-size: 18rpx;
+  padding: 2rpx 16rpx;
+  box-sizing: border-box;
+}
+.input1{
+  opacity: 0;
+  pointer-events: auto;
+}
+.hexiaoma{
+  font-size: 28rpx;
+  top:-10rpx;
+}
+.select{
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.text{
+  font-size:16rpx;
+  height:38rpx;
+  line-height:44rpx;
+  display:block;
+  text-align:center;
+  border-bottom: black 1rpx solid;
+  border-left: black 1rpx solid;
+  border-right: black 1rpx solid;
+}
+.item{
+  height:28rpx;
+  line-height:34rpx;
+}
+.singleMa{
+  text-align: center;
+  color:#ddc990;
+  font-size: 60rpx;
+  top:-80rpx;
+}
