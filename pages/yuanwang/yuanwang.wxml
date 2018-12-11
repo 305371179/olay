@@ -1,5 +1,5 @@
 <view class="stage yuanwang" name="yuanwang" id="yuanwang" style="{{'background:url('+baseUrl +'shouye/bg.png)'}}">
-    <image class="bitmap9 _id16" name="contentBg" src="{{baseUrl+'yuanwang/contentBg.png'}}"></image>
+    <image class="bitmap9 _id16" name="contentBg" src="{{baseUrl+'yuanwang/contentBg3.png'}}"></image>
     <!--家庭-->
     <view wx:if="{{current == 0}}">
         <image class="bitmap6 _id19" name="img0" src="{{baseUrl+'yuanwang/img0.png'}}"></image>

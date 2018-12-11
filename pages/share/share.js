@@ -18,7 +18,7 @@ Page({
     yiyuanText:16,
   },
   lvxingTap(){
-
+    console.log(555)
   },
   wuzheTap(){
 
@@ -36,6 +36,23 @@ Page({
       show: 'block'
     })
   },
+  setFontSize(){
+    const length = this.data.value.length
+    let size = 80// parseInt(20/length*80)
+    if(length<5){
+      size = 120
+    }else if(length<10){
+      size=80
+    }else if(length<15){
+      size = 60
+    }else{
+      size=60
+    }
+    this.setData({
+      fontSize: size,
+      width:size,
+    })
+  },
   onLoad(options){
     console.log(options)
     if(options.type!==undefined){
@@ -46,7 +63,7 @@ Page({
         values: value.split('\n')
       })
     }
-
+    this.setFontSize()
     if (app.globalData.userInfo) {
       this.setData({
         userInfo: app.globalData.userInfo,
