@@ -1,0 +1,139 @@
+<view class="stage friendIn" name="friendIn" id="friendIn" style="{{'height:'+pageHeight+'rpx;'}}">
+  <image class="bitmap29 _id" name="background" src="{{baseUrl+'meIn2/background.png'}}"></image>
+  <image class="bitmap28 _id1" name="xinyuanBg" src="{{baseUrl+'yuanwang/contentBg3.png'}}"></image>
+  <view class="headContain" style="{{'left:'+headLeft+'rpx;'}}">
+    <text class="bitmap23 _id6 name">
+      {{nickName}}
+    </text>
+    <image class="bitmap22 _id7 head" name="head" src="{{head}}"></image>
+  </view>
+ <view wx:if="{{hasYuanwang}}">
+   <view class="headContain">
+     <!--<image class="bitmap23 _id6" name="name" src="{{baseUrl+'friendIn/name.png'}}"></image>
+     <image class="bitmap22 _id7" name="head" src="{{baseUrl+'friendIn/head.png'}}"></image>-->
+     <!--<text class="bitmap23 _id6 name">-->
+       <!--{{nickName}}-->
+     <!--</text>-->
+     <!--<image class="bitmap22 _id7 head" name="head" src="{{head}}"></image>-->
+     <text class="tip">的新年愿望是</text>
+   </view>
+
+   <!--家庭-->
+   <view wx:if="{{current == 0}}" class="yuanwang">
+     <image class="bitmap6 _id19" name="img0" src="{{baseUrl+'yuanwang/img0.png'}}"></image>
+   </view>
+   <!--家庭-->
+   <view wx:if="{{current == 1}}" class="yuanwang">
+     <image class="bitmap11 _id14" name="img1" src="{{baseUrl+'yuanwang/img1.png'}}"></image>
+   </view>
+   <!--梦想-->
+   <view wx:if="{{current == 2}}" class="yuanwang">
+     <image class="bitmap15 _id10" name="img2" src="{{baseUrl+'yuanwang/img2.png'}}"></image>
+   </view>
+   <!--事业-->
+   <view wx:if="{{current == 3}}" class="yuanwang">
+     <image class="bitmap18 _id7" name="img3" src="{{baseUrl+'yuanwang/img3.png'}}"></image>
+   </view>
+   <!--财运-->
+   <view wx:if="{{current == 4}}" class="yuanwang">
+     <image class="bitmap23 _id2" name="img4" src="{{baseUrl+'yuanwang/img4.png'}}"></image>
+     <image wx:if="{{!value}}" class="bitmap22 _id3" name="contentText4" src="{{baseUrl+'yuanwang/contentText4.png'}}"></image>
+   </view>
+   <view class="yuanwang">
+     <view class="bitmap9 _id16 outContain" name="contentBg">
+       <view class="input textContain" wx:if="{{labelShow}}"  style="{{'font-size:'+fontSize+'rpx;width:'+width+'rpx;padding:'+width/3+'rpx;line-height:'+fontSize*1.2+'rpx;letter-space:'+width/3+'rpx;'}}">
+         <label wx:for="{{values}}" wx:key="index" >{{item}}</label>
+       </view>
+     </view>
+   </view>
+ </view>
+  <view style="position: absolute;left:0;top:0;" wx:else>
+    <image class="xyText" name="img0" src="{{baseUrl+'friendIn/xuxiaxinyuanText.png'}}"></image>
+    <image class="xyBtn" name="img0" src="{{baseUrl+'friendIn/xuxiaxinyuanBtn.png'}}" bindtap="xinyuan"></image>
+
+  </view>
+  <!--<image class="bitmap27 _id2" name="xinyuanText" src="{{baseUrl+'friendIn/xinyuanText.png'}}"></image>
+  &lt;!&ndash;<image class="bitmap26 _id3" name="lvshen" src="{{baseUrl+'friendIn/lvshen.png'}}"></image>&ndash;&gt;
+  <image class="bitmap25 _id4" name="heart" src="{{baseUrl+'friendIn/heart.png'}}"></image>-->
+
+
+  <!--二维码-->
+  <!--<image class="bitmap24 _id5" name="ma" src="{{baseUrl+'friendIn/ma.png'}}"></image>-->
+
+
+
+
+
+
+
+  <image class="bitmap21 _id8" name="xinyuan" src="{{baseUrl+'friendIn/xinyuan.png'}}"></image>
+  <!--<image class="bitmap20 _id9" name="xuxiaxinyuan" src="{{baseUrl+'friendIn/xuxiaxinyuan.png'}}"></image>-->
+  <!--<image class="bitmap18 _id11" name="guang3" src="{{baseUrl+'friendIn/guang3.png'}}"></image>-->
+  <!--<image class="bitmap17 _id12" name="guang2" src="{{baseUrl+'friendIn/guang2.png'}}"></image>-->
+  <!--点赞-->
+  <!--<image class="bitmap16 _id13" name="zanfirst" src="{{baseUrl+'friendIn/zanfirst.png'}}"></image>
+  <image class="bitmap15 _id14" name="zanlast" src="{{baseUrl+'friendIn/zanlast.png'}}"></image>-->
+
+  <view class="zanContain">
+    <image class="zanHead" src="{{item.head}}" wx:for="{{zans}}" wx:key="{{index}}" style="{{item.background?item.background:''}}"></image>
+  </view>
+
+
+
+
+  <!--进度-->
+  <image class="bitmap14 _id15" name="processBg" src="{{baseUrl+'friendIn/processBg.png'}}"></image>
+  <image class="bitmap13 _id16 process" name="process"  style="{{'width:'+progressWidth+'rpx'}}"></image>
+  <image class="bitmap12 _id17 star" name="star15" src="{{zan15}}"></image>
+  <image class="bitmap11 _id18 star" name="star30" src="{{zan30}}"></image>
+  <image class="bitmap10 _id19 star" name="star100" src="{{zan100}}"></image>
+  <image class="bitmap9 _id20" name="dianliang15" src="{{baseUrl+'friendIn/dianliang15.png'}}"></image>
+  <image class="bitmap8 _id21" name="dianliang30" src="{{baseUrl+'friendIn/dianliang30.png'}}"></image>
+  <image class="bitmap7 _id22" name="dianliang100" src="{{baseUrl+'friendIn/dianliang100.png'}}"></image>
+
+
+
+
+
+
+  <image class="bitmap6 _id23" name="logo" src="{{baseUrl+'friendIn/logo.png'}}"></image>
+
+  <!--已经完成兑换-->
+  <view class="meIn" wx:if="{{isFinish}}">
+    <image class="bitmap5 _id1" name="thankBtn" src="{{baseUrl+'meIn/thankBtn.png'}}" bindtap="tank"></image>
+    <image class="bitmap4 _id2" name="kaiqixinyuanBtn" src="{{baseUrl+'meIn/kaiqixinyuanBtn.png'}}" bindtap="share"></image>
+  </view>
+  <!--没有完成兑换-->
+  <!--style="position:absolute;left:-10rpx;"-->
+  <view class="meIn2" wx:if="{{!isFinish}}" >
+    <!--按钮-->
+    <image class="bitmap14 _id1" name="btnText2" src="{{baseUrl+'meIn2/btnText2.png'}}" style="pointer-events: none"></image>
+    <image class="bitmap13 _id2" name="btnText1" style="pointer-events: none" src="{{baseUrl+'meIn2/btnText1.png'}}"></image>
+    <image class="bitmap12 _id3" name="lvxingBtm" src="{{baseUrl+'meIn2/lvxingBtm.png'}}" bindtap="lvxing"></image>
+
+    <image class="bitmap10 _id5" name="wuzheBtn" src="{{baseUrl+'meIn2/wuzheBtn.png'}}" bindtap="wuzhe"></image>
+
+    <image class="bitmap8 _id7" name="yiyuanBtn" src="{{baseUrl+'meIn2/yiyuanBtn.png'}}" bindtap="yiyuan"></image>
+
+    <image class="bitmap6 _id9" name="chakanBtn" src="{{baseUrl+'meIn2/chakanBtn.png'}}" bindtap="chakan"></image>
+    <image class="bitmap5 _id10" name="ranghaoyouBtn" src="{{baseUrl+'meIn2/ranghaoyouBtn.png'}}" bindtap="ranghaoyou"></image>
+    <image class="bitmap4 _id11" name="mianhuBtn" src="{{baseUrl+'meIn2/mianhuBtn.png'}}" bindtap="newPrize"></image>
+    <image class="bitmap3 _id12" name="newPrize" src="{{baseUrl+'meIn2/newPrize.png'}}" style="pointer-events: none"></image>
+
+
+    <text class="bitmap11 _id4 lvxingText" name="lvxingText" style="pointer-events: none" >
+      助力{{lvxingText}}次
+    </text>
+    <text class="bitmap7 _id8 yiyuanText" name="yiyuanText" style="pointer-events: none" >助力{{yiyuanText}}次</text>
+    <text class="bitmap9 _id6 wuzheText" name="wuzheText" style="pointer-events: none" >助力{{wuzheText}}次</text>
+<!--
+    <image class="bitmap11 _id4" name="lvxingText" style="pointer-events: none" src="{{baseUrl+'meIn2/lvxingText.png'}}"></image>
+    <image class="bitmap7 _id8" name="yiyuanText" style="pointer-events: none" src="{{baseUrl+'meIn2/yiyuanText.png'}}"></image>
+    <image class="bitmap9 _id6" name="wuzheText" style="pointer-events: none" src="{{baseUrl+'meIn2/wuzheText.png'}}"></image>
+-->
+
+
+  </view>
+
+
+</view>

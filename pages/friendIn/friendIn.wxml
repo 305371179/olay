@@ -11,8 +11,6 @@
     <text class="tip">的新年愿望是</text>
   </view>
 
-
-
   <!--家庭-->
   <view wx:if="{{current == 0}}" class="yuanwang">
     <image class="bitmap6 _id19" name="img0" src="{{baseUrl+'yuanwang/img0.png'}}"></image>
@@ -96,7 +94,6 @@
       <image class="bitmap2 _id27" name="tip" src="{{baseUrl+'friendIn/tip.png'}}"></image>
       <image bindtap="lingqu" class="bitmap1 _id28" name="lingquBtn" src="{{baseUrl+'friendIn/lingquBtn.png'}}"></image>
     </view>
-、、
   </view>
 
 </view>

@@ -1,5 +1,7 @@
 {
   "pages": [
+    "pages/me/me",
+    "pages/meIn2/meIn2",
     "pages/friendIn/friendIn",
     "pages/share/share",
     "pages/yuanwang/yuanwang",
@@ -9,7 +11,6 @@
 
 
 
-    "pages/meIn2/meIn2",
     "pages/meIn/meIn",
     "pages/hexiao/hexiao",
     "pages/guodu/guodu",
