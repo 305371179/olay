@@ -1,0 +1,117 @@
+.bitmap1 {
+  position: absolute;
+  visibility: hidden;
+  width: 177rpx;
+  height: 58rpx;
+}
+
+g {
+  pointer-events: visiblePainted;
+}
+
+.bitmap2 {
+  position: absolute;
+  visibility: hidden;
+  width: 168rpx;
+  height: 58rpx;
+}
+
+.bitmap3 {
+  position: absolute;
+  visibility: hidden;
+  width: 297rpx;
+  height: 92rpx;
+}
+
+.bitmap4 {
+  position: absolute;
+  visibility: hidden;
+  width: 431rpx;
+  height: 92rpx;
+}
+
+.bitmap5 {
+  position: absolute;
+  visibility: hidden;
+  width: 320rpx;
+  height: 92rpx;
+}
+
+.bitmap6 {
+  position: absolute;
+  visibility: hidden;
+  width: 176rpx;
+  height: 21rpx;
+}
+
+.bitmap7 {
+  position: absolute;
+  visibility: hidden;
+  width: 594rpx;
+  height: 464rpx;
+}
+
+#meWindow {
+  position: absolute;
+  overflow: hidden;
+  width: 750rpx;
+  height: 1226rpx;
+  background: #ffffff;
+}
+
+.meWindow ._id {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(101rpx, 576rpx, 0);
+  -webkit-transform: translate3d(101rpx, 576rpx, 0);
+}
+
+.meWindow ._id1 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(318rpx, 814rpx, 0);
+  -webkit-transform: translate3d(318rpx, 814rpx, 0);
+}
+
+.meWindow ._id2 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(238rpx, 702rpx, 0);
+  -webkit-transform: translate3d(238rpx, 702rpx, 0);
+}
+
+.meWindow ._id3 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(183rpx, 695rpx, 0);
+  -webkit-transform: translate3d(183rpx, 695rpx, 0);
+}
+
+.meWindow ._id4 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(249rpx, 699rpx, 0);
+  -webkit-transform: translate3d(249rpx, 699rpx, 0);
+}
+
+.meWindow ._id5 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(430rpx, 886rpx, 0);
+  -webkit-transform: translate3d(430rpx, 886rpx, 0);
+}
+
+.meWindow ._id6 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(198rpx, 886rpx, 0);
+  -webkit-transform: translate3d(198rpx, 886rpx, 0);
+}
+
+.masks {
+  position: absolute;
+  left: 0rpx;
+  top: 0rpx;
+  width: 0rpx;
+  height: 0rpx;
+}

@@ -135,5 +135,18 @@
 
   </view>
 
+    <view class="meWindow" name="meWindow" id="meWindow" wx:if="{{showWindow}}">
+        <view style="position:absolute;top:-200rpx;">
+            <image class="bitmap7 _id" name="prizeBg" src="{{baseUrl+'meWindow/prizeBg.png'}}"></image>
+            <image class="bitmap6 _id1" name="prizeTip" src="{{baseUrl+'meWindow/prizeTip.png'}}"></image>
 
+            <image wx:if="{{lingquType=== 0}}" class="bitmap5 _id2" name="lvxingTip" src="{{baseUrl+'meWindow/lvxingTip.png'}}"></image>
+            <image wx:if="{{lingquType=== 1}}" class="bitmap4 _id3" name="wuzheTip" src="{{baseUrl+'meWindow/wuzheTip.png'}}"></image>
+            <image wx:if="{{lingquType=== 2}}" class="bitmap3 _id4" name="yiyuanTip" src="{{baseUrl+'meWindow/yiyuanTip.png'}}"></image>
+
+
+            <image class="bitmap2 _id5" name="yesBtn" bindtap="yes" src="{{baseUrl+'meWindow/yesBtn.png'}}"></image>
+            <image class="bitmap1 _id6" name="noBtn" bindtap="no" src="{{baseUrl+'meWindow/noBtn.png'}}"></image>
+        </view>
+    </view>
 </view>

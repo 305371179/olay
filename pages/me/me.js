@@ -43,6 +43,10 @@ Page({
     wuzheText:16,
     yiyuanText:16,
     headLeft:0,
+    //显示弹窗
+    showWindow:false,
+    //旅行：0  五折：1  一元：2
+    lingquType:-1
   },
   setFontSize(){
     const length = this.data.value.length
@@ -166,6 +170,12 @@ Page({
   },
   xinyuan(){
     console.log('心愿按钮')
+  },
+  yes(){
+    console.log('弹窗是的按钮')
+  },
+  no(){
+    console.log('弹窗否的按钮')
   },
   //点赞
   zan(){

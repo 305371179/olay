@@ -1,8 +1,9 @@
 {
   "pages": [
-    "pages/hexiao1/hexiao1",
     "pages/me/me",
+    "pages/meWindow/meWindow",
     "pages/meIn2/meIn2",
+    "pages/hexiao1/hexiao1",
     "pages/friendIn/friendIn",
     "pages/share/share",
     "pages/yuanwang/yuanwang",

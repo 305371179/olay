@@ -1432,3 +1432,121 @@ textarea.input{
 .headContain{
   position:absolute;
 }
+
+#meWindow .bitmap1 {
+  position: absolute;
+  visibility: hidden;
+  width: 177rpx;
+  height: 58rpx;
+}
+
+
+.meWindow .bitmap2 {
+  position: absolute;
+  visibility: hidden;
+  width: 168rpx;
+  height: 58rpx;
+}
+
+.meWindow .bitmap3 {
+  position: absolute;
+  visibility: hidden;
+  width: 297rpx;
+  height: 92rpx;
+}
+
+.meWindow .bitmap4 {
+  position: absolute;
+  visibility: hidden;
+  width: 431rpx;
+  height: 92rpx;
+}
+
+.meWindow .bitmap5 {
+  position: absolute;
+  visibility: hidden;
+  width: 320rpx;
+  height: 92rpx;
+}
+
+.meWindow .bitmap6 {
+  position: absolute;
+  visibility: hidden;
+  width: 176rpx;
+  height: 21rpx;
+}
+
+.meWindow .bitmap7 {
+  position: absolute;
+  visibility: hidden;
+  width: 594rpx!important;
+  height: 464rpx!important;
+}
+
+
+
+#meWindow ._id {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(101rpx, 576rpx, 0)!important;
+  -webkit-transform: translate3d(101rpx, 576rpx, 0)!important;
+}
+
+.meWindow ._id1 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(318rpx, 814rpx, 0);
+  -webkit-transform: translate3d(318rpx, 814rpx, 0);
+}
+
+.meWindow ._id2 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(238rpx, 702rpx, 0);
+  -webkit-transform: translate3d(238rpx, 702rpx, 0);
+}
+
+.meWindow ._id3 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(183rpx, 695rpx, 0);
+  -webkit-transform: translate3d(183rpx, 695rpx, 0);
+}
+
+.meWindow ._id4 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(249rpx, 699rpx, 0);
+  -webkit-transform: translate3d(249rpx, 699rpx, 0);
+}
+
+.meWindow ._id5 {
+  position: absolute;
+  visibility: inherit;
+  transform: translate3d(430rpx, 886rpx, 0);
+  -webkit-transform: translate3d(430rpx, 886rpx, 0);
+}
+
+.meWindow ._id6 {
+  position: absolute;
+  visibility: inherit!important;
+  transform: translate3d(198rpx, 886rpx, 0);
+  -webkit-transform: translate3d(198rpx, 886rpx, 0);
+}
+
+.masks {
+  position: absolute;
+  left: 0rpx;
+  top: 0rpx;
+  width: 0rpx;
+  height: 0rpx;
+}
+#meWindow{
+  z-index: 1;
+  width:100%;
+  height:100%;
+  background: rgba(0,0,0,0.7);
+  position:fixed;
+  left:0;
+  top:0;
+}
